@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for raising the summ of one hundred and twenty thousand pounds, on all lands, tenements and hereditaments in this kingdom.</title>
+            <title>Laws, etc.</title>
+            <author>Ireland</author>
+         </titleStmt>
+         <extent>Approx. 83KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09277</idno><idno type="EEBO-CITATION">80922895</idno>
+  <idno type="VID">191897</idno>
+  <idno type="EEBO-PROQUEST">2240865867</idno>
+  
+            <idno type="OCLC"> 80922895</idno>
+            <idno type="STC">Wing I322AA</idno>
+            <idno type="STC">ESTC R223189</idno>
+            <idno type="OCLC">80922895</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191897)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2895:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for raising the summ of one hundred and twenty thousand pounds, on all lands, tenements and hereditaments in this kingdom.</title>
+                  <title>Laws, etc.</title>
+                  <author>Ireland</author>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+               </titleStmt>
+               <extent>60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin: :</pubPlace>
+                  <date>M DC XCIX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1660-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191897:1"/>
+            <p>AN ACT FOR Raising the Summ of One hundred and Twenty thou<g ref="char:EOLhyphen"/>sand Pounds, on all Lands, Tenements and Hereditaments IN THIS KINGDOM.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>W R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>IE MEIN TIENDRAI</q>
+            </figure>
+            <p>
+               <hi>DƲBLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Most Excellent Majesty, on the <hi>Blind-Key,</hi> near <hi>Copper-Alley.</hi> MDCXCIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:191897:2"/>
+            <pb n="13" facs="tcp:191897:2"/>
+            <head>An ACT for Raising One hundred and Twenty thou<g ref="char:EOLhyphen"/>sand Pounds on all Lands, Tene<g ref="char:EOLhyphen"/>ments and Hereditaments in this KINGDOM.</head>
+            <head>CHAP. III.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E Your Majesty's most Dutiful and Loyal Subjects, the Com<g ref="char:EOLhyphen"/>mons, in Parliament Assembled, having Deép Sense of Your Ma<g ref="char:EOLhyphen"/>jesty's Great Care of our Well<g ref="char:EOLhyphen"/>fare and Preservation, and being desirous to Express the same, by Supplying Your Majesty's Occasions, for Defence of this Your Kingdom, in the most Chearful manner have Vnanimously Resolved to Give and Grant unto Your Majesty, the Rates, Taxes and As<g ref="char:EOLhyphen"/>sessments following, to be Raised and Levied at the Times, and in Manner following. And We pray that it may be Enacted.</p>
+            <p>And be it Enacted by the King's Most Ex<g ref="char:EOLhyphen"/>cellent Majesty, by, and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons in this present Parliament As<g ref="char:EOLhyphen"/>sembled and by the Authority of the same,
+<pb n="14" facs="tcp:191897:3"/> That His Majesty shall Have and Receive the Rates and Assessments herein-after mentioned, of, and from all Lands, Tenements, and He<g ref="char:EOLhyphen"/>reditaments, and Tiths and Impropriati<g ref="char:EOLhyphen"/>ons whatsoever in this Kingdom, according to the Rates and Proportions, and at the Times, and in the manner following (That is to say) that His Majesty shall and may Have, and Receive out of the same, the Summ of One hundred and Twenty thousand pounds <hi>Sterling,</hi> in, and by Four equal Payments of Thirty thousand pounds <hi>Sterling</hi> each Payment, the First of the said Payments to become due on the Twenty fourth day of <hi>June,</hi> which shall be in the Year of our Lord, One thousand Six hundred Ninety and Nine: The Second of the said Payments to become due on the Twen<g ref="char:EOLhyphen"/>ty fifth Day of <hi>December,</hi> which shall be in the said Year of our Lord, One thousand Six hundred Ninety and Nine: The Third of the said Payments to become due on the Twenty fourth Day of <hi>June,</hi> which shall be in the Year of our Lord, One thousand Seven hundred: And the Fourth and last of the said Payments to become due on the Twenty fifth Day of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> which shall be in the said Year of our Lord, One thousand Seven hundred.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That the said Four equal Payments, or Summs of Thirty thousand pounds <hi>Sterling,</hi> each and each of them shall, and may be Char<g ref="char:EOLhyphen"/>ged on all Provinces, Counties and Cities, of, and in this Kingdom, in such manner and proportions, as the Deficiency of the Years va<g ref="char:EOLhyphen"/>lue was laid on the several Provinces, Coun<g ref="char:EOLhyphen"/>ties and Cities of this Kingdom (that is to say)</p>
+            <pb n="17" facs="tcp:191897:3"/>
+            <p>That the Province of <hi>Leinster</hi> shall pay to<g ref="char:EOLhyphen"/>wards each of the said Payments, of Thirty thousand pounds, the Summ of Ten thousand and Fifty pounds <hi>Sterling.</hi>
+            </p>
+            <p>That the Province of <hi>Munster</hi> shall pay to<g ref="char:EOLhyphen"/>wards each of the said Payments of Thirty thousand pounds, the Summ of Eight thou<g ref="char:EOLhyphen"/>sand Nine hundred and Fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty pounds <hi>Sterling.</hi>
+            </p>
+            <p>That the Province of <hi>Ulst r</hi> shall pay to<g ref="char:EOLhyphen"/>wards each of the said Payments of Thirty thousand pounds, the Summ of Seven thou<g ref="char:EOLhyphen"/>sand pounds <hi>Sterling.</hi> And,</p>
+            <p>That the Province of <hi>Conaught</hi> shall pay towards each of the said Payments of Thirty thousand pounds, the Summ of Four thou<g ref="char:EOLhyphen"/>sand and Ten pounds <hi>Sterling.</hi>
+            </p>
+            <p>And be it further Enacted by the Authority aforesaid, That the several Counties and Ci<g ref="char:EOLhyphen"/>ties of the said Province of <hi>Leinster,</hi> shall pay of the said summ of Ten thousand and Fifty pounds, being the proportion which the sa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Province is Charged with, of each of the said Four Payments of Thirty thousand pounds each, the respective summs following.</p>
+            <p>That the County of <hi>Dublin</hi> shall pay Twelve hundred and Fifty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The City of <hi>Dublin,</hi> Twelve hundred and fifty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Kildare,</hi> Eight hundred and sixty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Catherlagh,</hi> Threé hundred and eighty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The <hi>King's County,</hi> Four hundred and fifty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The <hi>Queens-County,</hi> Five hundred pounds <hi>Sterling.</hi>
+            </p>
+            <pb n="16" facs="tcp:191897:4"/>
+            <p>The County of <hi>Longford,</hi> threé hundred pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Meath,</hi> one thousand four hundred and sixty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>West-meath,</hi> seven hundred and fifty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The City and County of the City of <hi>Kilken<g ref="char:EOLhyphen"/>ny,</hi> one hundred pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Kilkenny,</hi> one thousand and ten pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Wexford,</hi> seven hundred and fifty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Wicklow,</hi> threé hundred and sixty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Lowth,</hi> five hundred and twenty pounds <hi>Sterling.</hi> And</p>
+            <p>The County of the Town of <hi>Drogheda,</hi> one hundred and ten pounds <hi>Sterling.</hi>
+            </p>
+            <p>And be it likewise Enacted, That the several Counties and Cities of the said Province of <hi>Munster,</hi> shall pay of the said Summ of Eight thousand Nine hundred and Forty pounds, be<g ref="char:EOLhyphen"/>ing the proportion which the said Province is charged with, of each of the said Four Pay<g ref="char:EOLhyphen"/>ments of Thirty thousand pounds each, the re<g ref="char:EOLhyphen"/>spective Summs following (That is to say)</p>
+            <p>That the County of <hi>Limerick</hi> shall pay one thousand and ten pounds <hi>Sterling.</hi>
+            </p>
+            <p>The City of <hi>Limerick,</hi> two hundred pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Cork,</hi> with the City and County of the City of <hi>Cork,</hi> threé thousand one hundred and eighty pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Waterford,</hi> six hundred and sixty pounds <hi>Sterling.</hi>
+            </p>
+            <pb n="17" facs="tcp:191897:4"/>
+            <p>The City of <hi>Waterford,</hi> two hundred pounds <hi>Sterling.</hi>
+            </p>
+            <p>The County of <hi>Clare,</hi> Nine hundred and for<g ref="char:EOLhyphen"/>ty pounds <hi>Sterl.</hi>
+            </p>
+            <p>The County of <hi>Kerry,</hi> Five hundred and Fif<g ref="char:EOLhyphen"/>ty pounds <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terling.</hi> And,</p>
+            <p>The County of <hi>Tipperary</hi> (including <hi>Holy-Cross</hi>) two thousand and two hundred pounds <hi>Ster ing.</hi>
+            </p>
+            <p>And be it likewise Enacted, that the several Counties and Cities of the said P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovince of <hi>U<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ster,</hi> shall pay of the said Summ of Sea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en thousand pounds, being the Proportion which the said P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovince is charged with of each of the said Four Payments of Thir<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y thousand pounds <hi>Sterl.</hi> each, the respective Summs fol<g ref="char:EOLhyphen"/>lowing, (that is to say)</p>
+            <p>That the County of <hi>Donegall,</hi> shall pay One thousand and twenty pounds <hi>sterl.</hi>
+            </p>
+            <p>The County of <hi>Tyrone,</hi> Seaven hundred and Eighty pounds <hi>Sterl.</hi>
+            </p>
+            <p>The County of <hi>Fermanagh,</hi> Five hundred and thirty pounds <hi>Sterl.</hi>
+            </p>
+            <p>The County of <hi>Cavan,</hi> Five hundred and Se<g ref="char:EOLhyphen"/>venty pounds <hi>Sterl.</hi>
+            </p>
+            <p>The County of <hi>Monaghan,</hi> Five hundred and Fifty pounds <hi>Sterl.</hi>
+            </p>
+            <p>The County of <hi>Antrim,</hi> (including <hi>Carrick<g ref="char:EOLhyphen"/>fergus,</hi> and the County of the Town of <hi>Carrick<g ref="char:EOLhyphen"/>fergus</hi>) One thousand One hundred and Eigh<g ref="char:EOLhyphen"/>ty pounds <hi>Sterl.</hi>
+            </p>
+            <p>The County of <hi>Downe,</hi> One thousand and Fifty pounds <hi>Sterl.</hi>
+            </p>
+            <p>The County of <hi>Ardmagh,</hi> Five hundred and Fifty pounds <hi>Sterl.</hi> And</p>
+            <p>The County of <hi>Londonderry,</hi> (including
+<pb n="18" facs="tcp:191897:5"/> the City and County of <hi>Londonderry,</hi> and the Town and Barony of <hi>Coleraine</hi>) Seaven hun<g ref="char:EOLhyphen"/>dred and Seaventy pounds <hi>Sterl.</hi>
+            </p>
+            <p>And be it likewise Enacted, That the seve<g ref="char:EOLhyphen"/>ral Counties of the said Province of <hi>Conaught,</hi> shall pay of the said Summ of Four thousand and Ten pounds, being the Proportion which the said Province is Charged with of each of the said Four Payments of Thirty thousand pounds each, the respective Summs following (that is to say)</p>
+            <p>That the Town and County of the Town of <hi>Gallway,</hi> shall pay One hundred and Seaventy pounds <hi>sterl.</hi>
+            </p>
+            <p>The County of <hi>Gallway,</hi> One thousand two hund<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and Sixty pounds <hi>sterl.</hi>
+            </p>
+            <p>The County of <hi>Roscommon,</hi> Seaven hundred Eighty five pounds <hi>sterl.</hi>
+            </p>
+            <p>The County of <hi>Sligoe,</hi> Six hundred and twen<g ref="char:EOLhyphen"/>ty pounds <hi>sterl.</hi>
+            </p>
+            <p>The County of <hi>Mayo,</hi> Eight hundred and Fifteén pounds <hi>sterl.</hi> And,</p>
+            <p>The County of <hi>Leytrim,</hi> Threé hundred and Sixty pounds <hi>sterl.</hi>
+            </p>
+            <p>And for the more easy Applotting and Ascer<g ref="char:EOLhyphen"/>taining how the Proportions of the said several Charges and Payments of the said respective Counties and Cities shall be paid, and how much thereof shall be laid on the several Lands, Te<g ref="char:EOLhyphen"/>nements, Hereditaments, Tyths and Impro<g ref="char:EOLhyphen"/>priations in such Counties or Cities,</p>
+            <p>Be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>said, That every Barony, Division and Teri<g ref="char:EOLhyphen"/>tory in each County, and each Ward or Parish in each City in this Kingdom, shall bear such Proportion of the said Charge or Tax laid on
+<pb n="19" facs="tcp:191897:5"/> the said County or City, as such Barony, Di<g ref="char:EOLhyphen"/>vision, Territory, Ward or Parish is usually Assessed at towards the Publick Charges laid on such County or City, by Presentment of the Grand-Iuries, at the Assizes or Quarter-Ses<g ref="char:EOLhyphen"/>sions held respectively in and for the said Coun<g ref="char:EOLhyphen"/>ties or Cities, and that what such Proportion is, shall be Ascertained by the Major part of the Commissioners appointed by this Act, which shall be present at their first Meéting, pursu<g ref="char:EOLhyphen"/>ant to the Directions aforesaid.</p>
+            <p>And that the said first Meéting of the said Commissioners, respectively in the several Coun<g ref="char:EOLhyphen"/>ties and Cities of this Kingdom, shall be on the First day of <hi>March</hi> One thousand Six hundred Ninety eight.</p>
+            <p>And for the more Regular Ascertaining the said Proportions, according to the Rule before<g ref="char:EOLhyphen"/>mentioned,</p>
+            <p>Be it likewise Enacted by the Authority afore<g ref="char:EOLhyphen"/>said, That the Persons hereafter Named, shall and may be Commissioners for Ascertaining the said several Proportions payable by and out of the respective Lands, Tenements, Heredita<g ref="char:EOLhyphen"/>ments, and Tyths, and Impropriations in the several Baronies, Territories, Divisions, Wards and Parishes in the respective Counties and Ci<g ref="char:EOLhyphen"/>ties in this Kingdom, (that is to say)</p>
+            <div type="part">
+               <head>For the County of <hi>Ardmagh.</hi>
+               </head>
+               <p>
+                  <hi>The High-Sheriff for the time being, Sir</hi> Ni<g ref="char:EOLhyphen"/>cholas Atcheson <hi>Baronet, Sir</hi> Henry Titchburn <hi>Baronet,</hi> Arthur Brownlow, Marmaduke Cog<g ref="char:EOLhyphen"/>hil, Samuel Dopping, Stephen Ludlow, Edward Reyly, William Richardson, Hamlet Obbin,
+<pb n="20" facs="tcp:191897:6"/> Downham Cope, Edward Harrison, John Hamil<g ref="char:EOLhyphen"/>ton, Richard Chappel, William Blacker, Henry Richardson, Walter Dawson, Roger Hall, Henry Hunter, Hans Hamilton, James Maxwel <hi>and</hi> Richard Whaley <hi>Esquires, the Soveraign of</hi> Ardmagh <hi>for the time being, the Portrive of</hi> Charlemount <hi>for the time being, the Dean of</hi> Ardmagh, <hi>Arch-Deacon</hi> Charleton, <hi>Arch-Dea<g ref="char:EOLhyphen"/>con</hi> Jenney, William Delgardno <hi>Clerk,</hi> Rath Jones, James Manson <hi>and</hi> Thomas Clarke <hi>of</hi> Ardress <hi>Gentleman,</hi> Thomas Clarke <hi>of</hi> Portadown <hi>and</hi> John Haltridge <hi>Esquires,</hi> John Ball, Abraham Ball, Daniel Madden, Robert Lowry, John Hamil<g ref="char:EOLhyphen"/>ton, James Gillaspy, Thomas Bond <hi>and</hi> James Mc. Keane <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Antrim.</hi>
+               </head>
+               <p>Arthur Upton, Popham Conway, Hugh Colvil <hi>Esquires, Sir</hi> Arthur Langford <hi>Baronet,</hi> John Chichester, Charles Chichester, Clotworthy Ske<g ref="char:EOLhyphen"/>vington <hi>Esquires, Sir</hi> Robert Adare, Clotworthy Upton, James Mc. Cartney, Edward Harr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>son, Hercules Davis, Henry Davis, Charles O Neale, Edmond Stafford, Thomas Dawson, Robert Dalway, John Houston, Hans Hamilton, Francis Stafford, Godfrey Walker, Richard Dobb <hi>Iunior,</hi> Edmond Ellis, William Shaw <hi>of</hi> Gonoway, John ô Neale, Henry Mc. Cullagh, William Leslie, Ceorge Mc. Cartney, Benjamin Gallan, Robert Donnel, William Shaw <hi>of</hi> Bush, John Donaldson <hi>Senior,</hi> John Donaldson <hi>Iunior,</hi> Robert Leyes, Edmond Rey<g ref="char:EOLhyphen"/>nolds, George Buttle <hi>Esquires, Mayor and She<g ref="char:EOLhyphen"/>riffs of</hi> Carickfergus <hi>for the time being, Sove<g ref="char:EOLhyphen"/>raign of</hi> Belfast <hi>for the time being, Captain</hi> Edward Brice, George Mc. Cartney <hi>of</hi> Belfast <hi>Merchant,</hi> Arthur Mc. Cartney <hi>of</hi> Belfast <hi>Mer<g ref="char:EOLhyphen"/>chant,</hi>
+                  <pb n="21" facs="tcp:191897:6"/> William Crawford <hi>of</hi> Belfast <hi>Merchant,</hi> Henry Chade <hi>of</hi> Belfast <hi>Merchant,</hi> Patrick Ha<g ref="char:EOLhyphen"/>milton <hi>of</hi> Belfast, Andrew Clements <hi>and</hi> Samuel Davys <hi>Gen<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lemen;</hi> Charles Stewart <hi>of</hi> Bellintog <hi>Esquire,</hi> Marm<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>duke Newton <hi>Gentleman, Cap<g ref="char:EOLhyphen"/>tain</hi> Arthur Davys, <hi>Captain</hi> James Johnston, James Stanneus, Alexander Dallaway <hi>Esquires;</hi> Benjamin Adare, Roger Bristow, Henry Shaw <hi>of</hi> Ballygally, William Shaw <hi>of</hi> Ballygally, Brian Mac Manus, Richard Newton, James Crawford, Robert Crawford, William Maxwell <hi>of</hi> Portglenon, Francis Shaw, John Peirce <hi>of</hi> Lisborn <hi>Gentlemen:</hi> Edward Lindon, Thomas Cornwall, <hi>Doctor</hi> John Peacock, VVilliam VValkington, Thomas Craw<g ref="char:EOLhyphen"/>ford, William Close, Thomas Smith, Patrick Duffe, David Buttle, Edward Clemence, Brent Spencer, John Charleton, Warham Jemmet, John Lathum <hi>Gentlemen: Dean</hi> Wilk<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, Henry Leslie, John Windar, Richard Dowdall, <hi>Dean</hi> George Story, James Ecclin <hi>Clerk, Dean</hi> Enock <hi>Reader,</hi> William Armor, Andrew Eaton <hi>Clerk,</hi> James Hartson, Samuel Shannon, Willian Ste<g ref="char:EOLhyphen"/>ward, Peter Jackson, Henry Andrew, Hugh mac Collum, James mac Cullogh, Alexander mac Ca<g ref="char:EOLhyphen"/>ley <hi>Gentlemen:</hi> William Boyd <hi>Clerk,</hi> John De<g ref="char:EOLhyphen"/>lap, Neale Buy mac Neal, John Mitchell <hi>Gentle<g ref="char:EOLhyphen"/>men:</hi> Archibold mac Neale <hi>Clerk,</hi> John Ful<g ref="char:EOLhyphen"/>lerton <hi>Gentleman,</hi> Michael Harrison <hi>Esquire,</hi> Richard Horseman, Francis Courtney <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of the Town of <hi>Carickfergus.</hi>
+               </head>
+               <p>The Mayo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Sheriffs for the time being, Master <hi>Henry Davys,</hi> Master <hi>Edward Lyndon,</hi> and Master <hi>Samuel Davys,</hi> Captain <hi>Arthur Davys,</hi> Captain <hi>John Davys, Andrew Clements, Marmaduke Newton</hi> Gentlemen, and Dean <hi>George Story</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:191897:7"/>
+               <head>For the County of <hi>Catherlaugh.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Thomas Butler <hi>Baronet, the High-She<g ref="char:EOLhyphen"/>riff for the time being, Sir</hi> William Parsons, John Allen, Phillip Savage, Mathew Ford, Went<g ref="char:EOLhyphen"/>worth Harman, Pierce Buttler, William Ponson<g ref="char:EOLhyphen"/>by, John Tench, Benjamin Burton, Thomas Bur<g ref="char:EOLhyphen"/>dett, Edmond Jones, Robert Curtis, Richard Boyle, John Beauchamp, Walter Weldon, Urban Vigors, Richard Wolesley, Nicholas Keymes <hi>Iunior,</hi> John Bernard, John Brown, Jeffry Paul, William Paul, <hi>Esquires;</hi> Thomas Bernard, Thomas Bunbury <hi>Gentlemen;</hi> Thomas Hardy, Christian Borr, Eusebius Beasley, <hi>Esquires;</hi> Benjamin Neale, James Cox, Thomas Fox <hi>and</hi> Robert Harris, <hi>Clerks; the Honourable</hi> Robert Rochfort <hi>Esq;</hi> Edward Worth, Robert Stopford, James Stopford, <hi>Soveraign of</hi> Catherlagh <hi>for the time being.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Cavan.</hi>
+               </head>
+               <p>
+                  <hi>The Honourable</hi> Thomas Coote <hi>Esquire, the Honourable</hi> Oliver Lambert <hi>Esquire, Sir</hi> Fran<g ref="char:EOLhyphen"/>cis Hamilton <hi>Baronet, Colonel</hi> Francis White, <hi>Colonel</hi> Francis Butler, <hi>Sir</hi> John Mason <hi>Knight,</hi> John Warburton, Thomas Ash, Robert Saunders, Samuel Townly, Hans Hamilton, Walter Pollard, Robert Clements, John Coyne, Henry Palmer <hi>Senior,</hi> Charles Ham<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>son, Arnold Cosby, Daniel French, Thomas Townley, Alexander Saunderson, Joseph Pratt, Robert Casey, Edward Davenport, Dillon Pollard, Thomas Smith, Edward Cosby <hi>Esquires;</hi> Arthur Cullom, Brockhill Newburgh, Robert Craige, Henry Palmer, James Somervell, Thomas Fleming, John Kempson, Thomas Cole,
+<pb n="23" facs="tcp:191897:7"/> William Blashford, Robert Burrose, Henry Gwyl<g ref="char:EOLhyphen"/>lyms, Faustin Cuppage <hi>Gentlemen;</hi> Enock Rider <hi>Dean of</hi> Kilmore, Mathew Handcock, <hi>Arch-dea<g ref="char:EOLhyphen"/>con of the same;</hi> Robert Maxwell, William Hand<g ref="char:EOLhyphen"/>sord, Anthony Iveson <hi>Clerks;</hi> Samuel Willson, John Price, George Russell, John Robinson, John Jones, William Laughton, Thomas Humes, Lawrence Crow <hi>and</hi> Patrick Everey <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Clare.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Henry Ingoldsby, <hi>Sir</hi> Donogh ô Brien <hi>Baronets,</hi> Francis Burton, Francis Gore <hi>E<g ref="char:EOLhyphen"/>squires,</hi> Neptune Blood <hi>Dean of</hi> Kilfenoragh, James Hamilton, <hi>the Honourable</hi> John ô Brian, Samuel Burton, Henry Lee, Thomas Hickman, Edmond Perry, Symon Pordon, David Bindon, Henry Bridgman, George Stamers, Augustine Fitz-Gerald, Henry Hickman, William Smith, James mac Donel, Nicholas VVestby, Thomas Stanton <hi>Esquires:</hi> John Hawkins, Patrick Fitz-Simons <hi>Clerks,</hi> Richard Hedges <hi>Esquire:</hi> VVilliam Brigdall, VVilliam Smith, Henry Lee, John Cusack, John Road, Arthur VVard, Henry Hickman <hi>Gentlemen;</hi> Peregrin Blood, Thomas Blood <hi>Gen<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leman, and</hi> Thomas Hawkins <hi>Gen<g ref="char:EOLhyphen"/>tleman.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the City and County of the City of <hi>Cork.</hi>
+               </head>
+               <p>
+                  <hi>Colonel</hi> Toby Purcell, Allan Brodrick <hi>His Majesty's Sollicitor-General, Alderman</hi> Ro<g ref="char:EOLhyphen"/>bert Rogers, <hi>Doctor</hi> Walter Neale, Edward Synge <hi>Clerk, the Mayor and Sheriffs for the time be<g ref="char:EOLhyphen"/>ing,</hi> Thomas Piggot <hi>Esquire, Alderman</hi> John Newenham, Mathew French <hi>Esquire, Alderman</hi>
+                  <pb n="24" facs="tcp:191897:8"/> William Ballard, <hi>Alderman</hi> Soare, <hi>Alderman</hi> Crofts, <hi>Alderman</hi> French, <hi>Alderman</hi> Crone, <hi>Alderman</hi> Chartres, Simon Dring, Iohn Spread <hi>Merchant, Captain</hi> William Dunscomb, Warham St. Leger <hi>Esquire, Captain</hi> Epenetus Cross, Iohn Wallis <hi>Esquire, Captain</hi> Iohn Traverse, Iohn Raines <hi>Esquire,</hi> Edward Richardson <hi>Esquire,</hi> Iohn Wallis <hi>Esquire,</hi> Abraham Morrice, Robert Blenerhasset <hi>Esquire and</hi> Harbert Love <hi>Gentle<g ref="char:EOLhyphen"/>man.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Cork.</hi>
+               </head>
+               <p>
+                  <hi>The Honourable</hi> Henry Boyle, Charles Boyle <hi>and</hi> Richard Boyle, <hi>Sir</hi> St. John Brodrick <hi>Knight, the Honourable</hi> Thomas Brodrick <hi>Esquire, the Honourable</hi> Allan Brodrick <hi>Esquire,</hi> Robert Fitz Gerald <hi>Esquire,</hi> Edward Southwel <hi>Esquire,</hi> James Waller <hi>Esquire,</hi> Edward Riggs <hi>Esquire,</hi> Francis Bernard <hi>Esquire,</hi> William Jephson <hi>Esquire,</hi> Lau<g ref="char:EOLhyphen"/>rence Clayton <hi>Esquire,</hi> Barry Denny <hi>Esquire,</hi> Francis Brewster <hi>Esquire,</hi> John Ormsby <hi>Esquire,</hi> James Barry <hi>Esquire,</hi> Robert Foulke <hi>Esquire,</hi> Charles Oliver <hi>Esquire,</hi> William Brodrick <hi>Esquire</hi> Percy Freake <hi>Esquire,</hi> Edward Richardson <hi>E<g ref="char:EOLhyphen"/>squire,</hi> Bryan Townsend <hi>Esquire,</hi> Thomas Bee<g ref="char:EOLhyphen"/>cher <hi>Esquire,</hi> Samuel Maurice <hi>Esquire,</hi> Robert Pooley <hi>Esquire, Sir</hi> John Mead, Francis Hodder <hi>Esquire, the Honourable Sir</hi> Richard Pyne, <hi>Sir</hi> Richard Cox, William Car <hi>Esquire,</hi> John Bailey <hi>Esquire,</hi> Thomas Crooke <hi>Esquire,</hi> Edward Worth <hi>Esquire,</hi> Richard Travers <hi>Esquire,</hi> Richard Hutchins <hi>Esquire,</hi> Daniel Beamish <hi>Gentleman,</hi> John Ley <hi>Esquire, the Mayor of</hi> Youghal <hi>for the time being, Captain</hi> Thomas Dicks, John Davys <hi>Esquire, the Soveraign of</hi> Kinsale <hi>for
+<pb n="25" facs="tcp:191897:8"/> the time being, the Soveraign of</hi> Middleton <hi>for the time being, the Soveraign of</hi> Charle<g ref="char:EOLhyphen"/>vile <hi>for the time being, Sir</hi> Mathew Dean, Digby Foulke <hi>Esquire,</hi> John Cooke <hi>Alderman of</hi> Youghal, Richard Yates, Edward Nicholas Jasper Lucas, Robert Ball <hi>and</hi> Richard Giles <hi>Aldermen of</hi> Youghal, Henry Luther <hi>Esquire,</hi> William Ballard <hi>Alderman of</hi> Cork, Nicholas Brumby <hi>Esquire,</hi> Richard Wakeham <hi>Esquire,</hi> William Wakeham <hi>Esquire,</hi> Samuel Maynard <hi>Esquire,</hi> William Sup<g ref="char:EOLhyphen"/>ple <hi>Esquire,</hi> Peter Bettesworth, William Smyth <hi>Gentleman,</hi> Thomas Piggot <hi>Esquire,</hi> John Tra<g ref="char:EOLhyphen"/>verse <hi>Esquire,</hi> John Bowles <hi>Esquire,</hi> Michael Gould <hi>Gentleman,</hi> John Brailsford <hi>Gentleman,</hi> Arthur St. Leger <hi>Esquire,</hi> James Graham <hi>Gen<g ref="char:EOLhyphen"/>tleman,</hi> Thomas Croker <hi>Alderman of</hi> Youghal, Stephen Moore <hi>Esquire, Colonel</hi> William Taylor, Richard Gift <hi>Gentleman,</hi> Emanuel Moore <hi>Esquire</hi> Henry Tonson <hi>Gentleman,</hi> Henry Beecher <hi>Gen<g ref="char:EOLhyphen"/>tleman,</hi> Authony Butler <hi>Gentleman,</hi> Henry Sandford <hi>Esquire,</hi> Bartholomew Purdon <hi>Esquire, Captain</hi> Thomas Purdon, Joseph Stepney <hi>Esquire,</hi> Michael Parker <hi>Esquire, Colonel</hi> Theobald Pur<g ref="char:EOLhyphen"/>cel, Arthur Hyde <hi>Esquire, Captain</hi> Ioseph El<g ref="char:EOLhyphen"/>wel, Ionas Stowel <hi>Senior</hi> Ionas Stowel <hi>Iunior Esquires,</hi> Robert Gookin <hi>Esquire,</hi> Arthur Keife <hi>Gentleman,</hi> Iohn Montford <hi>Gentleman,</hi> Thomas Chidley <hi>Gentleman, Captain</hi> William Stowel, <hi>Captain</hi> Edward Stowel, Arthur Pomeroy <hi>Dean of</hi> Cork, Rowland Davis <hi>Dean of</hi> Ross, William Jephson <hi>Dean of</hi> Lismore, <hi>Master</hi> John Rugg <hi>Clerk, Master</hi> James Spencer, <hi>Master</hi> John Bulk<g ref="char:EOLhyphen"/>ley, Edward Sayers <hi>Clerk,</hi> Mathew French <hi>E<g ref="char:EOLhyphen"/>squire,</hi> Robert Condon <hi>Esquire.</hi> Thomas Hyde <hi>Esquire.</hi> Edward Dodsworth <hi>Esquire.</hi> Henry Rice <hi>Esquire.</hi> Appollos Morrise <hi>Gentleman.</hi> Bar<g ref="char:EOLhyphen"/>rachias
+<pb n="26" facs="tcp:191897:9"/> Wallis, William Gard <hi>Senior,</hi> Walter Grocer, Thomas Wallis <hi>Esquire,</hi> Charles New<g ref="char:EOLhyphen"/>man, George Chinary, James Manser <hi>Esquire,</hi> John Silver <hi>Esquire,</hi> Richard Bettsworth <hi>Esquire</hi> William Thornhill <hi>Esquire,</hi> George Rogers <hi>E<g ref="char:EOLhyphen"/>squire,</hi> Francis Smith <hi>Senior Esquire,</hi> Francis Smith <hi>Iunior Esquire,</hi> John Watkins, Henry Boreman, Hawes Crosse <hi>Esquire,</hi> Nicholas Licett <hi>Esquire, the Soveraign of</hi> Castlemarter <hi>for the time being,</hi> Augustin Goggin <hi>Esquire,</hi> Mathew Jacob <hi>Esquire,</hi> John Gillman, Rich Roffin <hi>Clerk,</hi> John Morryson, Arthur Bernard <hi>Esquire,</hi> John Patrickson <hi>Clerk,</hi> Edward House, Dillon New<g ref="char:EOLhyphen"/>man <hi>Esquire,</hi> George Oburne <hi>Gentleman,</hi> John Williams <hi>Gentleman,</hi> Robert Atkins <hi>Gentleman,</hi> Robert Constantine <hi>Gentleman, Doctor</hi> Francis Quaile, David Elliott <hi>Clerk,</hi> Henry Harrison <hi>Clerk,</hi> John Mascall <hi>Clerk,</hi> Francis Foulks <hi>E<g ref="char:EOLhyphen"/>squire,</hi> John Raines <hi>Esquire,</hi> Peter Huit <hi>Clerk,</hi> John Tombs <hi>Clerk,</hi> Edward Browne <hi>Gentleman,</hi> Thomas Sweet <hi>Gentleman,</hi> Richard Price <hi>Gen<g ref="char:EOLhyphen"/>tleman,</hi> William Kemys <hi>Gentleman,</hi> Michael Busted <hi>Gentleman,</hi> Edward Kenny <hi>Gentleman, Provost of</hi> Bandon <hi>for the time being,</hi> John Bourne <hi>Esquire,</hi> Richard Goodman <hi>Clerk,</hi> John Hungerford <hi>Clerk,</hi> Robert Echlin <hi>Esquire,</hi> Ran<g ref="char:EOLhyphen"/>dal Roberts <hi>Gentleman,</hi> Thomas Lane <hi>Gentle<g ref="char:EOLhyphen"/>man,</hi> Caleb Coakley <hi>Gentleman,</hi> John Parsons <hi>Gentleman,</hi> Nicholas Purdon <hi>Gentleman,</hi> Mi<g ref="char:EOLhyphen"/>chael Beecher <hi>Gentleman,</hi> John Chinery <hi>Gentle<g ref="char:EOLhyphen"/>man,</hi> William Serjeant <hi>Gentleman,</hi> Daunt <hi>Gentleman,</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the City of <hi>Dublin.</hi>
+               </head>
+               <p>
+                  <hi>The Honourable</hi> Robert Rochfort <hi>His Maje<g ref="char:EOLhyphen"/>sty's
+<pb n="27" facs="tcp:191897:9"/> Attorney-General, and Speaker of the House of Commons, the Lord Mayor, Recor<g ref="char:EOLhyphen"/>der, Aldermen and Sheriffs for the time being, the Honourable</hi> Phillip Savage <hi>Esquire, Chan<g ref="char:EOLhyphen"/>cellor of the Exchequer,</hi> Allan Brodrick <hi>Esquire, His Majesty's Sollicitor-General,</hi> Stephen Lud<g ref="char:EOLhyphen"/>low <hi>Esquire, Colonel</hi> John Allen, George War<g ref="char:EOLhyphen"/>burton <hi>Esquire,</hi> Richard Foster <hi>Esquire,</hi> John VVarburton <hi>Esquire,</hi> Anderson Saunders <hi>Esquire, Sir</hi> Arthur Cole <hi>Baronet, Colonel</hi> Stephen Stan<g ref="char:EOLhyphen"/>ley, Edward Reily <hi>Esquire,</hi> William Fownes <hi>E<g ref="char:EOLhyphen"/>squire, Sir</hi> Richard Levinge, <hi>Sir</hi> John Mead <hi>Knight,</hi> Marmaduke Coghill <hi>Esquire,</hi> Robert Molsworth <hi>Esquire,</hi> Henry Monke <hi>Esquire,</hi> Ro<g ref="char:EOLhyphen"/>bert Curtis <hi>Esquire,</hi> James Tisdall <hi>Esquire,</hi> Charles Delane <hi>Esquire,</hi> James Corey, Thomas Pooley <hi>Esquire,</hi> Edward Richardson <hi>Esquire, Colonel</hi> John Lovett, Christopher Usher <hi>Esquire,</hi> John Usher <hi>Esquire, Sir</hi> Nicholas Atchison <hi>Knight,</hi> Christopher Borr, Charles Baldwin <hi>Esquire,</hi> Thomas Tillson, John Smith <hi>Esquires,</hi> Abel Ram <hi>Esquire,</hi> Robert Echlin <hi>Esquire,</hi> Fau<g ref="char:EOLhyphen"/>stin Cupparidge <hi>Gentleman,</hi> Thomas Twigg <hi>Gentleman. Sir</hi> Francis Blundell, <hi>Sir</hi> Henry Ingoldsby, <hi>Sir</hi> John Coghill, <hi>Sir</hi> Patrick Dunn, William Connelly <hi>Esquire,</hi> John Weaver <hi>Senior Esquire,</hi> Edward Wingfeild <hi>Esquire,</hi> Charles Meredith <hi>Esquire,</hi> James Hamilton <hi>of</hi> Tullymore. <hi>Colonel</hi> Henry Coningham, <hi>Colonel</hi> Robert Ech<g ref="char:EOLhyphen"/>lin, Standish Hartstounge <hi>Esquire,</hi> William Ro<g ref="char:EOLhyphen"/>binson <hi>Esquire, Doctor</hi> Thomas Mollyneux, Sa<g ref="char:EOLhyphen"/>muel Dopping <hi>Esquire,</hi> Hercules Davys <hi>Esquire,</hi> Charles Deering <hi>Esquire,</hi> Wentworth Harman <hi>Esquire,</hi> Arthur Meredith <hi>Esquire,</hi> Elnathan Lumm <hi>Esquire,</hi> Edward Reynells <hi>Esquire, Ser<g ref="char:EOLhyphen"/>jeant</hi> William Neave <hi>Esquire,</hi> Thomas Ash <hi>E<g ref="char:EOLhyphen"/>squire,</hi>
+                  <pb n="28" facs="tcp:191897:10"/> Thomas Carter <hi>Esquire,</hi> John Weaver <hi>Iunior Esquire,</hi> John Redding <hi>Esquire,</hi> Gideon Delawne <hi>Esquire,</hi> James Mc. Cartney <hi>Esquire,</hi> Robert Saunders <hi>Esquire,</hi> Charles Wallis <hi>Esquire,</hi> Roger Moore <hi>Esquire,</hi> Robert Ormsby <hi>Esquire,</hi> John Ormsby <hi>Esquire,</hi> Richard Thompson <hi>E<g ref="char:EOLhyphen"/>squire,</hi> Joshua Dawson <hi>Esquire,</hi> Daniel Wybrants <hi>Esquire,</hi> Joseph Budden <hi>Esquire,</hi> Robert King, Andrew Young <hi>Esquires, Master</hi> Edward De<g ref="char:EOLhyphen"/>lawne, <hi>Master</hi> Richard Fleming, <hi>Master</hi> Ralph Gore, <hi>Master</hi> John Rotton, <hi>Master</hi> William Keating, <hi>Master</hi> Richard Cooke, James Waller <hi>Esquire. All such Members of the House of Commons, as have Estates in or are Resident in the City of</hi> Dublin,</p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Dublin.</hi>
+               </head>
+               <p>
+                  <hi>The Honourable</hi> Robert Rochfort <hi>Esquire, Speaker of the House of Commons, Sir</hi> Ri<g ref="char:EOLhyphen"/>chard Bulkeley, <hi>Sir</hi> Thomas Domvile, <hi>Sir</hi> Ar<g ref="char:EOLhyphen"/>thur Cole, <hi>Baronets, Sir</hi> Walter Plunket, <hi>Sir</hi> William Domvile, <hi>Sir</hi> John Coghil <hi>Knights,</hi> Robert Molesworth, Edward Dean, Henry Mount<g ref="char:EOLhyphen"/>gomery, Richard Foster, John Allen, Joseph Dean <hi>Senior,</hi> Daniel Reading <hi>Senior,</hi> William Neave, John Reading, Henry Fernely, John Stepney, Jo<g ref="char:EOLhyphen"/>seph Dean <hi>Iunior,</hi> Isaac Dobson, Joseph Stepney, Robert Echlin, Bernard Brown, Thomas Stepney, Dixey Coddington, Hugh Rowley, Aghmundition Vesey, Charles Wallis, John Linegar, Joseph Budden, Thomas Carter, Henry Cooley <hi>Esquires,</hi> Richard Bolton, Henry Scardevile, Stephen Dean, Thomas Rider, John Smith, Charles Baldwin <hi>and</hi> Christopher Johnson <hi>Gentlemen,</hi> Robert Curtis, Denny Muschamp, Philip Savage, George Warbur<g ref="char:EOLhyphen"/>ton,
+<pb n="29" facs="tcp:191897:10"/>
+                  <hi>Colonel</hi> Crofton, Henry Echlin, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Jackson <hi>Clerk, Doctor</hi> Patrick Grattan, <hi>Doctor</hi> Dive Downes, Thomas Keightly, John South, Christo<g ref="char:EOLhyphen"/>pher Carleton, Richard Thompson, John Lovett, Thomas Ash, Edward Swan <hi>and</hi> John Smith <hi>E<g ref="char:EOLhyphen"/>squires,</hi> Christian Bor <hi>Gentleman,</hi> Abel Ram <hi>and</hi> James Barry <hi>Esquires, Doctor</hi> Edward Smith <hi>Dean of</hi> St. Patricks, Marmaduke Coghil, Samuel Dopping, John Price, Iames Grace, Ro<g ref="char:EOLhyphen"/>bert Stopford <hi>Esquires,</hi> Robert Graydon <hi>and</hi> Alex<g ref="char:EOLhyphen"/>ander Burrowes <hi>Gentlemen:</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Donnegal.</hi>
+               </head>
+               <p>
+                  <hi>The High Sheriff of the said County for the time being. Sir</hi> William Gore <hi>Baronet. Colonel</hi> Gustavus Hamilton. <hi>Colonel</hi> Henry Cunningham. Charles Hamilton. Andrew Knox, Kilner Brasier. John Forward. Iohn Hamilton. Hugh Hamil. Robert King. Francis Folliot. Abraham Creichtown. David Creightown. William Gore. William Connel<g ref="char:EOLhyphen"/>ly. Charles Melvin. Henry Langford. Humphrey May. VVilliam Stewart <hi>of</hi> Fort-stewart. William Wray. Henry Hart. George Vaughan. Patrick Ha<g ref="char:EOLhyphen"/>milton. Edward Harrison. Ralph Gore. VVilliam Sampson. Henry Brookes. James Nisbet. VVilliam Stewart <hi>of</hi> Ballylane. Charles Leslie. James Stew<g ref="char:EOLhyphen"/>art. Thomas Knox. John Cowan <hi>Esquires,</hi> John Trench <hi>Dean of</hi> Raphoe. Andrew Hamilton <hi>Arch-Deacon of</hi> Raphoe. <hi>Arch-Deacon</hi> Isaac Colier. Edward VVhitway. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Cooper. Robert Acheleck <hi>Clerks. Captain</hi> VVilliam Cunningham. <hi>Captain</hi> Francis Hamilton. <hi>Captain</hi> VVilliam Hamilton, <hi>the Warden of</hi> Lifford <hi>for the time being, the Provosts of</hi> Donegal, Kille<g ref="char:EOLhyphen"/>begs, Ballyshannon <hi>and</hi> St. Johnstown <hi>for the time
+<pb n="30" facs="tcp:191897:11"/> being.</hi> Andrew Knox. VVilliam Cairey. Alexan<g ref="char:EOLhyphen"/>der Cuningham <hi>of</hi> Achen. VVilliam Knox. Robert Mortimer. James Vaughan. Michael Huetson. Robert Spence. Thomas Atkinson, Tristram Swe<g ref="char:EOLhyphen"/>tenham. Charles Colhoone. VVilliam VValker. Alexander Nisbett. John Evans. Robert Baird. Ed<g ref="char:EOLhyphen"/>ward Cairy. John Henderson, Thomas Knox, VVilliam Maxwel, Robert Delap, John Jennings, Andrew Nisbett <hi>Iunior,</hi> VVilliam Babington, Iohn Nisbett, Henry Mc. Manus, Alexander Cuning<g ref="char:EOLhyphen"/>ham <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of the Town of <hi>Drogheda.</hi>
+               </head>
+               <p>
+                  <hi>The Mayor, Recorder and Sheriffs for the time being,</hi> Charles <hi>Lord</hi> Moore, <hi>Sir</hi> Henry Tichborne <hi>Baronet,</hi> Edward Singleton, Richard Jackson, Thomas Percivall, VVilliam Ellwood, Henry Nichols, Richard Pitts, John Graham, Joseph Tomlinson, VVilliam Newton, James Mead, Henry Ogle <hi>and</hi> George Hardman <hi>Alder<g ref="char:EOLhyphen"/>men:</hi> Caleb Gay <hi>and</hi> John Leigh <hi>Esquires.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Downe.</hi>
+               </head>
+               <p>Nicholas Bagnall, James Hamilton of Tully<g ref="char:EOLhyphen"/>more, Nicholas Price, <hi>Sir</hi> Iohn Magill, Mathew Ford <hi>Senior,</hi> Clotworthy Upton, Mathew Ford <hi>Iunior, Sir</hi> Iohn Trevor, Iames Sloan, Iohn Hawkins, Henry Hunter, Evan Humphries, Ed<g ref="char:EOLhyphen"/>ward Harrison, Richard Iohnson, Francis Hall <hi>and</hi> Roger Hall <hi>Esquires, the Reverend</hi> Iohn Mc. Neale <hi>Dean of</hi> Downe, Iohn Gibbons, <hi>the Re<g ref="char:EOLhyphen"/>verend Doctor</hi> Henry Leslie, Vere Ward, <hi>the Re<g ref="char:EOLhyphen"/>verend</hi> Archibald Mc. Neale, Iames Mc. Cartney, William Shaw <hi>of</hi> Ganway, Robert Echlin, <hi>the Re<g ref="char:EOLhyphen"/>verend</hi>
+                  <pb n="31" facs="tcp:191897:11"/> Andrew Mathews <hi>Clerk,</hi> John Norrice, Charles Campbel, Thomas Smith, Henry Max<g ref="char:EOLhyphen"/>well, Samuel Warring, John Haltridge, Arthur Maxwell, Thomas Knox, <hi>the Reverend</hi> James Clewlow <hi>Clerk,</hi> Alexander Stewart, <hi>the Reve<g ref="char:EOLhyphen"/>rend</hi> Henry Jenney <hi>and</hi> James Hamilton <hi>of</hi> Kirk<g ref="char:EOLhyphen"/>dowth <hi>Clerks,</hi> Robert Hawkins, <hi>the Reverend</hi> John Cuppaige <hi>Clerk, the Honourable</hi> Michael Hill, Popham Conway, Hugh Colvill, Francis Anesley, James Hamilton <hi>of</hi> Bangor, Hans Hamil<g ref="char:EOLhyphen"/>ton, George Fitz-Gerald, <hi>Sir</hi> Francis Blundel, Fredrick Porter, Patrick Savadge, James Montgo<g ref="char:EOLhyphen"/>mery, William Warring, John Echlin, Gawen Hamilton, William Hamilton, James Baily <hi>and</hi> Hugh Montgomery <hi>Esquires,</hi> George Ross, Alex<g ref="char:EOLhyphen"/>ander Stewart, Patrick Hamilton John Montgo<g ref="char:EOLhyphen"/>mery, Francis Allen, John Blackwood, Mathew Stothard, John Saunders, William Neven, Alex<g ref="char:EOLhyphen"/>ander Browne, George Rosse <hi>of</hi> Cainy, James Smart <hi>the elder,</hi> James Smart <hi>the younger,</hi> Ro<g ref="char:EOLhyphen"/>bert Kyle, Thomas Slade, Thomas Stanhopp, Iames Houston <hi>and</hi> Ioseph Mc. Kitrick <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Fermanagh.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> William Gore, <hi>Sir</hi> Gustavus Hume <hi>and</hi> Iames Caldwell <hi>Baronets, Sir</hi> Michael Cole <hi>Knight,</hi> Iames Corry <hi>Esquire,</hi> Christopher Ir<g ref="char:EOLhyphen"/>wing <hi>Doctor of Phisick,</hi> Charles Balfoure, Abra<g ref="char:EOLhyphen"/>ham Creighton, Hugh Montg<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mery <hi>of</hi> Carow, William Archdale, Edward Davys, Iohn Corry, Henry Tennison, Hugh Montgomery <hi>of</hi> Derrygon<g ref="char:EOLhyphen"/>nelly, Robert Saunders, William Balfoure, Wil<g ref="char:EOLhyphen"/>liam Wishart, Iames Creightowne, <hi>Captain</hi> Da<g ref="char:EOLhyphen"/>vid Creightone, David Rynde, Iason Hassard, Gilbert Eccles, Charles Wallis <hi>and Captain</hi> Francis
+<pb n="32" facs="tcp:191897:12"/> Iohnston <hi>Esquires,</hi> George Hume <hi>Clerk, Cap<g ref="char:EOLhyphen"/>tain</hi> Iohn Irwin, <hi>Doctor</hi> George Denis, Iames Aghenleck <hi>Gentlemen, the Provost of</hi> Inniskil<g ref="char:EOLhyphen"/>lin, <hi>Captain</hi> Robert Clarke, William Smyth <hi>Clerk, Lieutenant</hi> Lawrence Crawford, Dudly Tenison <hi>and</hi> Thomas Leturnel <hi>Gentlemen, Cap<g ref="char:EOLhyphen"/>tain</hi> William Dobbin, <hi>Cornet</hi> Lancelot Carleton, Walter Iohnston <hi>Gentleman; Lieutenant</hi> Iames Iohnston, <hi>Major</hi> Arthur Noble, <hi>Lieutenant</hi> Lan<g ref="char:EOLhyphen"/>celot Erwin <hi>and Colonel</hi> Francis Butler.</p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Galway.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> George St. George <hi>Knight,</hi> John Eyre <hi>E<g ref="char:EOLhyphen"/>squire, Sir</hi> St. George <hi>Baronet, Colonel</hi> Richard St. George, Gilbert Ormsby, William Caulfield, Fredrick Trench, Henry Peirce, John Ormsby, John Morgan, John Neyland, Richard Whaley, Robert Mason, Thomas Crosdall, Samuel Eyre, John Lopdell, Edward Eyre <hi>and</hi> Edward Ormsby <hi>of</hi> Shrewel <hi>Esquires, the High-Sheriff for the time being,</hi> Thomas Stanton <hi>and</hi> Edward Crow <hi>Esquires,</hi> Stephen Handcock <hi>Clerk,</hi> Ro<g ref="char:EOLhyphen"/>bert Shaw, John Carter, Oliver Carter, John Tayler, Thomas Cunys, Edward Blackney, Jere<g ref="char:EOLhyphen"/>my Morgan, Jacob Spike, Edward Ormsby <hi>of</hi> Bellagar, Oliver Bingly. Thomas Crookshank. Wil<g ref="char:EOLhyphen"/>liam Gunter. Richard Warren. John Broughton <hi>Iunior.</hi> Edward Cornwell. John Kelly. Lodowick Pringle. Francis Muxley. Conn Mitchel. William Davis. Edward VVilson <hi>and</hi> Theophilus Warren. <hi>Gentlemen.</hi> Charles Morgan. Walter Taylor. Thomas Smith. Robert Blakeney. George Warbur<g ref="char:EOLhyphen"/>ton. John Seymour <hi>and</hi> Iames Budd <hi>Esquires,</hi> Robert Echlin <hi>Dean of</hi> Tuam. <hi>Dean</hi> Peirce. <hi>Doctor</hi> Charles Crow <hi>Provost of</hi> Tuam, <hi>and</hi> Edward Price <hi>Prebend of</hi> Tuam.</p>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:191897:12"/>
+               <head>For the Town of <hi>Galway.</hi>
+               </head>
+               <p>Richard St. George <hi>Esquire,</hi> Robert Ormsby <hi>Esquire, Sir</hi> George St. George <hi>Baronet; Sir</hi> George St. George <hi>Knight:</hi> John Eyre <hi>Esquire,</hi> James Hamilton <hi>of</hi> Tullymore, Edward Eyre <hi>E<g ref="char:EOLhyphen"/>squire, the Mayor of the said Town for the time being;</hi> John Ormsby <hi>Esquire,</hi> John Gerry <hi>Esquire,</hi> Thomas Revett, Thomas S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mcocks <hi>and</hi> Thomas Cartwright <hi>Aldermen:</hi> Robert Shaw <hi>Gentleman,</hi> Robert Widderington <hi>Gentleman,</hi> James Ribett Vigre <hi>Merchant,</hi> Richard Browne <hi>Alderman, the Sheriffs for the time being,</hi> Marke Lynch <hi>Iunior Merchant,</hi> Thomas Stanton <hi>and</hi> John Stanton <hi>Esquires.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Kerry.</hi>
+               </head>
+               <p>
+                  <hi>The Sheriff for the time being, Colonel</hi> Ed<g ref="char:EOLhyphen"/>ward Denny. William Fitzmorris, Raymond Fitz<g ref="char:EOLhyphen"/>morris <hi>Esquires, Major</hi> Barry Denny, <hi>Colonel</hi> John Blenerhassett, William Sandys <hi>Esquire, Colonel</hi> Samuel Morris, Edward Denny <hi>Iunior, Colonel</hi> Fredrick Mullins, Rowland Bateman, Tobias Purcel, Andrew Young, Thomas Ponson<g ref="char:EOLhyphen"/>by, John Bateman, Samuel Raymond, John Ble<g ref="char:EOLhyphen"/>nerhassett <hi>of</hi> Killorglin, Whitehal Browne, James Fitzmorris, David Crosby <hi>and</hi> Patrick Crosby <hi>Esquires,</hi> John Sandys <hi>and</hi> Richard Orpen <hi>Gen<g ref="char:EOLhyphen"/>tlemen;</hi> Charles Monck <hi>Esquire,</hi> Samuel Fedwel <hi>Gentleman,</hi> Henry Petty <hi>and</hi> James VValler <hi>Esquires;</hi> Joseph Morris <hi>Gentleman,</hi> Charles Wican <hi>and</hi> Edward Herbert <hi>Esquires,</hi> William Crosby <hi>Gentleman,</hi> Eusebias Chute <hi>Esquire,</hi> Henry Par <hi>and</hi> Thomas Sheircliffe <hi>Gentlemen,</hi>
+                  <pb n="34" facs="tcp:191897:13"/> Henry Stoughton, Thomas Carter <hi>and</hi> Francis Burton <hi>Esquires,</hi> Pierce Power <hi>Gentleman.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Kilkenny.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Christopher Wandesford <hi>Baronet, Sir</hi> John Mead, <hi>Sir</hi> Henry Weymes, <hi>Colonel</hi> William Ponsonby, Agmondisham Cuffe, Ebenezar Warren Arthur Bush, Henry St. George <hi>Senior,</hi> Henry St. George <hi>Iunior,</hi> Richard St. George, Blaney Sandford, Edward Worth, Christopher Hewetson, Edward May, Samuel Booth, Robert Stopford, Balthazar Creamer, Arthur Webb, John Eaton, Joseph Watson, Amias Bush, John Langridge, George Reed, George Baker, William Ponsonby, Thomas Crawford, <hi>Colonel</hi> Edward Dean, Joseph Deane, Arthur St. George, Thomas Cuffe, Michael Head, Francis Flood <hi>Esquires,</hi> Edward Briscoe, John Head, Pierce Bryan <hi>of</hi> Bawenmore, Paul Gore, John Warren, Richard Connel, John Jones, Nathaniel Boyse, Darby Egan, Abel Butler, Charles Gore, James Gager, Jonathan VVhitby, William Feyden, Patrick VValsh, Joseph VVheeler, Thomas Marshel, VVilliam Deyes, John Byshop, Iohn VVheeler, Iohn Barnes, Daniel Marser, VVilliam Hawkins, Ioseph Lodg, <hi>and</hi> Ioseph Robbins <hi>Gen<g ref="char:EOLhyphen"/>tlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the City of <hi>Kilkenny.</hi>
+               </head>
+               <p>
+                  <hi>The Mayor and Sheriffs for the time be<g ref="char:EOLhyphen"/>ing,</hi> Agmondisham Cuffe <hi>Esquire, Sir</hi> Christo<g ref="char:EOLhyphen"/>pher Wandesford <hi>Baronet,</hi> Standish Hartstounge <hi>Esquire Recorder,</hi> Richard Connel, Ioshua Hel<g ref="char:EOLhyphen"/>sham, Ebenezar Warren, Iohn Pape <hi>and</hi> Isaac Muckins <hi>Esquires,</hi> Iosias Haydock, Patrick Con<g ref="char:EOLhyphen"/>nel
+<pb n="35" facs="tcp:191897:13"/>
+                  <hi>and</hi> Abraham Butler <hi>Aldermen,</hi> John Garnet, Thomas Crawford <hi>Esquire.</hi> John VVaring <hi>Alder<g ref="char:EOLhyphen"/>man.</hi> Robert Stopford <hi>Esquire.</hi> Thomas Cooksey <hi>and</hi> George Burch <hi>Aldermen.</hi> John Hamilton <hi>Gentleman.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Kildare.</hi>
+               </head>
+               <p>
+                  <hi>The Honourable the Speaker of the House of Commons. Sir</hi> Francis Blundel, <hi>Sir</hi> Kil<g ref="char:EOLhyphen"/>dare Burrowes. <hi>Sir</hi> John Sandys <hi>Baronets.</hi> George Fitz Gerald. Henry Cooley. James Barry. Richard Nevil. Thomas Medlicot. John Davis. VVilliam Connely. Maurice Keating. Richard Lock Francis VVeymes. Robert Gradon. Paul Davis. Robert Dixon John Allen, Robert Echlin. Wentworth Har<g ref="char:EOLhyphen"/>man. Charles Ryves. Francis Annesly. Maurice Annesley. John Annesley. Robert Annesley. Edward Stratford. Agmondisham Vesey. George Warburton. Garret VVeasley. Richard Meredith Henry VVarren. Charles Rickesey: Henry Cu<g ref="char:EOLhyphen"/>ningham. Thomas Car. Raphael Hunt. Ieffrey Paul. John Aylmer. Iames VVhite. Charles VVallis. VVilliam Brereton: John Aylmer <hi>Iu<g ref="char:EOLhyphen"/>nior:</hi> Richard VVibrow: VValter White: Francis Spring: Thomas Twigg: Theobald Bourke <hi>E<g ref="char:EOLhyphen"/>squires:</hi> VVilliam Chavenor <hi>Gentleman:</hi> Samuel Synge <hi>Dean of</hi> Kildare: Henry Price <hi>Doctor of Divinity.</hi> Theophilus Harrison <hi>Dean of</hi> Knock<g ref="char:EOLhyphen"/>macknoss: Iames Moore: Thomas Hawley: Tho<g ref="char:EOLhyphen"/>mas Theaker: Nicholas Knight: Samuel Price <hi>Clerks, and</hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Meredith <hi>Clerk Curate of</hi> Naas: Oliver Moore: William Becket <hi>Esquires</hi> Iohn Prat: George Cooley: Edward Bermingham <hi>and</hi> Benjamin Fish <hi>Gentlemen.</hi> George Medlicot William Harborne <hi>and</hi> William Southerby <hi>E<g ref="char:EOLhyphen"/>squires:
+<pb n="36" facs="tcp:191897:14"/> Colonel</hi> John Lovett: William Winnet Thomas Fisher: Thomas Salt: Alexander Gray<g ref="char:EOLhyphen"/>don: Jonathan Naylor: William Wright: Bar<g ref="char:EOLhyphen"/>tholomew Rigg: Henry Doyle: Benjamin Bennet Edward Ward: William Ward: James mac Ma<g ref="char:EOLhyphen"/>nus: Richard Aylmer <hi>Gentlemen:</hi> Richard Po<g ref="char:EOLhyphen"/>vey: Lewis Keamish <hi>Esquires:</hi> Isaac Ward: Ri<g ref="char:EOLhyphen"/>chard Eustace: James Young: Richard Foster <hi>Esquire;</hi> Thomas Foster: Nicholas Davis: John Wolfe <hi>Gentlemen: the several Soveraigns for the time being of the several Corporations of</hi> Naas, Kildare, Athy <hi>and</hi> Harristown: Thomas Ash <hi>Esquire:</hi> Thomas Fisher <hi>and</hi> Jonathan Nay<g ref="char:EOLhyphen"/>ler <hi>Gentlemen:</hi> Thomas Handcastle: <hi>Colonel</hi> Dean: <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Burdett <hi>Clerk:</hi> Benjamin Burton <hi>Esquire.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the <hi>Kings-County.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Francis Blundell <hi>Baronet: Sir</hi> William Parsons <hi>Baronet:</hi> Duke Gifford: John Lovett: Thomas Lestrange: William Sprigg: Thomas Moore: John Wakeley: John Moore; Geoffry Lyons: VVilliam Purefoy: Samuel Rolls: El<g ref="char:EOLhyphen"/>nathan Lum: John Weaver <hi>Senior Esquires:</hi> John Weaver <hi>Iunior:</hi> John Baldwin <hi>Senior:</hi> John Baldwin <hi>Iunior:</hi> Hector Ʋaughan: Richard Warburton <hi>Senior:</hi> Richard Warburton <hi>Iunior:</hi> Henry Westenra: Samuel Mosse: Iames Sterling: Iohn Seymour: Ionathan Darby: Thomas Tilson: Samuel Low: Medhopp Lloyd <hi>Esquires:</hi> Daniel Tomlinson: William Nelson <hi>Clerks:</hi> Peter Holmes <hi>Gentleman.</hi> George Lawder <hi>Clerk:</hi> Francis Lambert: George Frizel: Phillip wenman: Iames Purefoy <hi>Gentlemen;</hi> Francis Stoyte <hi>Esquire,</hi> Ro<g ref="char:EOLhyphen"/>bert Echlin: Alexander Stewart; Oliver Bingly:
+<pb n="37" facs="tcp:191897:14"/> Thomas Carter. George Warburton. William Wetherell <hi>Esquires.</hi> Edward Heaton. Francis Heaton. Philip Moore. William Vaughan <hi>Gentle<g ref="char:EOLhyphen"/>men.</hi> Edward Baggot <hi>Esquire.</hi> Francis Clerke <hi>Gentleman. Colonel</hi> Gustavus Hamilton. <hi>Cap<g ref="char:EOLhyphen"/>tain</hi> Charles Stewart. <hi>Master</hi> George Rightson. Albert Nisbett <hi>Gentleman.</hi> Michael Cahell <hi>Clerk.</hi> George Homes. Archibald Lawder. Archibald Armstrong. William Armstrong. Charles Le<g ref="char:EOLhyphen"/>strange. John Craddock. Nathaniel Taylor. Oliver Nelson <hi>Gentlemen. The Burgomaster of</hi> Philip<g ref="char:EOLhyphen"/>stowne <hi>for the time being, or his Deputy.</hi> Richard Luther. Milo Baggott. John Mc. Cullagh. John Ridgway. John Smith <hi>and</hi> Nathaniel Smith <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Leytrim.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> George St. George, <hi>Sir</hi> Francis Hamilton, <hi>Sir</hi> William Gore, <hi>Sir</hi> Robert Gore <hi>Baronets,</hi> John Reynolds, Theophilus Jones, Gilbert King, Morgan Cuningham, Robert Galbraith, Arthur Coo<g ref="char:EOLhyphen"/>per, Francis Gore, Gilbert Gardiner <hi>Esquires,</hi> VVilliam Gore, VVilliam Lowder, Thomas Crof<g ref="char:EOLhyphen"/>ton, John French, John Mahon, Edward Reynoll, Ralph Gore, VVilliam Smith, VVilliam Parks, Edward Johnson, VVilliam Parsons, John Peyton, William Ellis, John Crofton <hi>Gentlemen:</hi> Robert Whitlow <hi>Clerk,</hi> George Carew <hi>Gentleman,</hi> Luke Sterling <hi>Clerk,</hi> William Stack <hi>Gentleman,</hi> VVilliam Smith <hi>Clerk,</hi> Robert Craige, Simon Broadstreet <hi>Gentlemen:</hi> John Druary <hi>Provost of</hi> Carrick <hi>for the time being, the Soveraign of</hi> Jame<g ref="char:EOLhyphen"/>stown <hi>for the time being.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:191897:15"/>
+               <head>For the County of <hi>Lymerick.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Edward Crofton, <hi>Sir</hi> Thomas Southwell, <hi>Sir</hi> Standish Hartstounge <hi>Baronets: Sir</hi> Wil<g ref="char:EOLhyphen"/>liam King <hi>Knight,</hi> George Evans <hi>the younger,</hi> Chichester Phillips, Standish Hartstounge <hi>the younger,</hi> Chidley Coote, Standish Hartstounge <hi>the Elder,</hi> Charles Oliver, John Ormsby, Ri<g ref="char:EOLhyphen"/>chard Ingoldsby, Lawrence Clayton, Killnor Bra<g ref="char:EOLhyphen"/>zior, Joseph Stepney, William Trenchard, John Piggott, George Evans <hi>Senior,</hi> Ralph Willson, Benjamin Burton, John Odel, Michael Searle, Henry Widdenham, Richard Stephens, David Willson, Robert Taylor, Thomas Mounsel Wil<g ref="char:EOLhyphen"/>liam Blackney, John Croker, Richard Waller, James Waller, Thomas Tilson, Thomas Holmes, George King, John Parker, Henry Johnson, Hugh Massy, Henry Aylmer, VVilliam Ryves, John Bury. VVilliam Langford, Sampson Cox, Ed<g ref="char:EOLhyphen"/>ward Blenerhassett, Edward Croker, Nicholas VVestby, Joseph Osbourne, George Mansell <hi>E<g ref="char:EOLhyphen"/>squires:</hi> John Bayly, Thomas Fitz-gerald, John Gabbott, George Rose, Owen Cuthbert, George Denny, James VVeb, Amos Godsell, Hugh Swayne, Alexander Elliott, Richard Pope <hi>Gen<g ref="char:EOLhyphen"/>tlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the City of <hi>Lymerick.</hi>
+               </head>
+               <p>
+                  <hi>The Mayor and Sheriffs for them being, Sir</hi> Joseph Williamson <hi>Knight, Sir</hi> William King <hi>Knight,</hi> Richard Ingoldsby <hi>Esquire,</hi> Robert Blenerhassett <hi>Esquire, Recorder: Dean</hi> Ezekiel Webb, Ralph Wilson, Edmond Perry <hi>Esquires:</hi> William Gribble, Robert Smith, George Roch, John
+<pb n="39" facs="tcp:191897:15"/> Craven, John Ford, Edward Weight, John Young, Richard Pope, Joseph Cripps <hi>and</hi> Robert Twiggs <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Longford.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Robert Newcomen <hi>Baronet, Sir</hi> John Edgworth, <hi>Sir</hi> Walter Plunkett <hi>Knights:</hi> Am<g ref="char:EOLhyphen"/>brose Angier, Wentworth Harman <hi>Esquires,</hi> John Kerr <hi>Dean of</hi> Ardagh, Charles Fox, Anthony Shepard, Thomas Aghmuty, <hi>Captain</hi> Charles Newcomen, Francis Edgworth, John Percivall, John Aghmooty, Theophilus Jones, Samuel Forth, Freak Sandys, Mathew Wilder, Robert Edgworth, Arthur Aghmooty, William Hyde, William Neave, Francis VVilson, Gilbert Gardner, John Kenne<g ref="char:EOLhyphen"/>dy, Richard Gardiner, Thomas Handcock, Wal<g ref="char:EOLhyphen"/>ter Pollard <hi>Esquires:</hi> John Wilson <hi>Clerk,</hi> John Green <hi>Clerk,</hi> Patrick Fox <hi>Gentleman:</hi> Benja<g ref="char:EOLhyphen"/>min Spann <hi>Clerk,</hi> James Corry, John Corry <hi>E<g ref="char:EOLhyphen"/>squires: and</hi> Michael Boyer <hi>and</hi> Mathew Young, Patrick Kenny <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the City and County of <hi>Londonderry.</hi>
+               </head>
+               <p>
+                  <hi>The Mayors and Recorders of</hi> Londonderry <hi>and</hi> Colerain <hi>for the the time being, the Sheriffs of the City and County of</hi> Londonderry <hi>for the time being; Sir</hi> Tristram Beresford, <hi>Sir</hi> Arthur Langford, <hi>Sir</hi> Robert Staples <hi>Baronets:</hi> Wil<g ref="char:EOLhyphen"/>liam Jackson, David Cairnes, Bartholomew Van<g ref="char:EOLhyphen"/>homrigh, Henry Langford <hi>and</hi> William Connel<g ref="char:EOLhyphen"/>ly <hi>Esquires:</hi> William Smyth, Gervaise Squire, Alexander Lecky, James Lennox, Henry Long, Henry Ash, Horace Kennedy, Thomas Moncreiffe <hi>and</hi> Edward Brookes, <hi>all Aldermen of the City
+<pb n="40" facs="tcp:191897:16"/> of</hi> Londonderry: Alexander Skipton: Charles Nor<g ref="char:EOLhyphen"/>man: Thomas Edwards: George Tomkins: John Mogridge: John Harvey <hi>and</hi> Michael Cuningham <hi>Gentlemen:</hi> William Cuningham: Thomas Daw<g ref="char:EOLhyphen"/>son: Hugh Rowley: Michael Downing: Arthur Upton <hi>and</hi> Clotworthy Upton <hi>Esquires:</hi> Hugh Rainey: Thomas Ash: Adam Downing: William Palmer: Samuel Wright <hi>and</hi> John Howey <hi>Senior Gentlemen:</hi> Edward Carey <hi>and</hi> William Gage <hi>Esquires: the Provost of</hi> Newtown <hi>for the time being:</hi> George Carey: George Church: William Bacon: Edward Bacon: Robert Bacon: Robert Dent: George Thornton: Henry Brown <hi>Gentle<g ref="char:EOLhyphen"/>men:</hi> Hercules Rowley: George Canning <hi>and</hi> Thomas Church <hi>Esquires: Colonel</hi> Thomas Blaire: George Canning: Charles Church <hi>Iunior Gentlemen:</hi> John Hodgson: Dominick Heyland <hi>Gentlemen:</hi> Coote Ormsby <hi>Dean of</hi> Derry: <hi>Doctor</hi> Christophilus Jenny; Richard Griffith <hi>Clerk, and</hi> Robert Gage <hi>Clerk:</hi> Tristram Beres<g ref="char:EOLhyphen"/>ford: William Godfrey: Samuel Jackson <hi>and</hi> Ben<g ref="char:EOLhyphen"/>jamin Gallant <hi>Esquires:</hi> Arthur Church: John Galt <hi>and</hi> Edward Barwicke <hi>Aldermen of</hi> Colerain: Michael Berisford: Arthur Carey: Thomas Spaight <hi>and</hi> Thomas Lance <hi>Gentlemen:</hi> Nicholas Ave<g ref="char:EOLhyphen"/>rell: John Tompson <hi>Iunior. and</hi> John Galt <hi>Iu<g ref="char:EOLhyphen"/>nior, Merchants:</hi> Richard Linan: James Buoy <hi>and</hi> John Oliver <hi>Gentlemen:</hi> Samuel Hill: Edward Hall: Nathaniel Hornby <hi>and</hi> John Cowan <hi>Esquires:</hi> Alexander Gordan: VVilliam Mackey: Robert Gamble: Albert Hall: Samuel Erving <hi>and</hi> Jacob Alexander <hi>Merchants:</hi> Ro<g ref="char:EOLhyphen"/>bert Mack Neale <hi>Esquire, and</hi> Gideon Scott <hi>Clerk.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:191897:16"/>
+               <head>For the County of <hi>Lowth.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Henry Titchborne <hi>Baronet, Sir</hi> Thomas Fortescue <hi>Knight,</hi> Thomas Bellingham, James Tisdal, William Fortescue, Brabazon Moore, Bla<g ref="char:EOLhyphen"/>ney Townley, Robert Alway, John Pepper, Edward Singleton, Timothy Armitage, Norman Garstin, Jeremy Smyth, William Barton, John Graham <hi>Esquires,</hi> John Ruxston, <hi>Captain</hi> Brent Moore, James See, John Smith, Anthony Bury <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> Arthur Brownlow, Henry Tenison, William Brabazon <hi>Esquires,</hi> William Eccleston <hi>Gentle<g ref="char:EOLhyphen"/>man, Doctor</hi> Thomas Cox, Mossom Wye, <hi>Clerk, the Sheriff for the time being.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Mayo.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Henry Bingham <hi>Baronet, Sir</hi> Arthur Shaen <hi>Baronet,</hi> William Gore, John Bingham, Owen Vaughan, Robert Miller, Thomas Bell, Ro<g ref="char:EOLhyphen"/>bert Bell, John French, John Mathews, Owen Wynn, George Gore, William Palmer, Thomas Burdett, Francis Palmer, Robert Ormsby <hi>of</hi> Clogh<g ref="char:EOLhyphen"/>ans, Robert Gardiner, Roger Palmer, Edward Wilson <hi>and</hi> George Bingham <hi>Esquires,</hi> John Hill, Mathew Bell, Gilbert Miller, Thomas Cuffe, Francis Bingham, Joseph Lewen, Robert Ormsby <hi>of</hi> Ballanamoe, John Sheridan, Thomas Browne, William Knox, Edward Crofton <hi>and</hi> Perkins Vaughan <hi>Gentlemen,</hi> George Car, Francis Knap, Henry Crofton, James Gordon, James Clarke, Thomas Eccleston, William Pullen, Henry Gonn, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Quatremain, Gideon Johnson <hi>and</hi> Ed<g ref="char:EOLhyphen"/>ward Nicholson <hi>Clerks.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:191897:17"/>
+               <head>For the County of <hi>Meath.</hi>
+               </head>
+               <p>
+                  <hi>The Honourable</hi> Robert Rochfort <hi>Esquire, Speaker of the House of Commons, the Right Honourable the Lord</hi> Moore, <hi>the Chancellor of the Exchequer,</hi> Oliver Lambert <hi>Esquire, Sir</hi> Arthur Langford, <hi>Sir</hi> Henry Ingoldsby <hi>Baro<g ref="char:EOLhyphen"/>nets, Sir</hi> Henry Titchburne <hi>Knight and Baro<g ref="char:EOLhyphen"/>net, Sir</hi> John Dillon <hi>Knight,</hi> Thomas Bligh <hi>Esquire, Sir</hi> Charles Feilding <hi>Knight,</hi> William Napper, Robert Johnson, Arthur Meredith, James Hamilton <hi>of</hi> Tullymore, Francis Osburne, Tho<g ref="char:EOLhyphen"/>mas Taylor, Charles Meredith, Garret Weisley, James Napper, <hi>Doctor</hi> Mollyneux, Edward Corker, Edward Forth, Michael Shields, Samuel Bull, Hen<g ref="char:EOLhyphen"/>ry Langford, Robert Stopford, Lancellot Dowdal, Joseph Dean, Charles Lambert, Henry Osburne <hi>of</hi> Dardistown, Stephen Ludlow, John Warburton <hi>and</hi> Francis Stoyte <hi>Esquires,</hi> John Harris <hi>Gen<g ref="char:EOLhyphen"/>tleman. Major</hi> George Pepper, Symon Pepper, Hugh Mervyn, John Leigh, John Grimes <hi>and</hi> VVilliam Ellwood <hi>Esquires,</hi> Nathaniel Ellwood, Anthony Perry <hi>Gentlemen,</hi> Charles Campbel <hi>Esquire,</hi> Richard Shinton, Henry Osburne <hi>of</hi> Knowth, Thomas Garret <hi>Gentlemen,</hi> Joseph Woodward, William Williams, Samuel Jackson <hi>Esquires,</hi> Thomas Nicholson <hi>Gentleman,</hi> Henry Meredith <hi>Esquire, Major</hi> John Pepper, Henry Coddingan <hi>Esquire,</hi> Alexander Kent, Joseph Dean <hi>Iunior, Gentlemen,</hi> Darcy Wentworth, George Wentworth, Nathaniel Bull, John Wade <hi>Esquires,</hi> Charles Wade <hi>of</hi> Clonebray <hi>Gentleman</hi> John Wood <hi>senior,</hi> John Wood <hi>junior,</hi> Robert Allway, Faustin Cuppaidge, James Morecroft, <hi>Arch-Deacon of</hi> Meath, Ioseph Dean <hi>Iunior,</hi>
+                  <pb n="43" facs="tcp:191897:17"/> Iohn Percival, Samuel Dopping, Thomas Loftus, Ioseph Prat <hi>and</hi> Benjamin Prat <hi>Esquires,</hi> Iohn Prat <hi>Gentleman,</hi> William Connelly, Richard Iones, Isaac Holroid, Iohn Hawkshaw <hi>Esquires Por<g ref="char:EOLhyphen"/>trive of</hi> Trim <hi>for the time being, Soveraign of</hi> Kells <hi>for the time being, Portrive of</hi> Navan <hi>for the time being,</hi> Duke Iefford Iames Tisdall Ed<g ref="char:EOLhyphen"/>ward Swan <hi>Esquire. Alderman</hi> James Vanbub<g ref="char:EOLhyphen"/>bart, <hi>Captain</hi> William Ingoldsby. <hi>Doctor</hi> Mar<g ref="char:EOLhyphen"/>maduke Coghil, Oliver Moore. Thomas Ash. VVilliam Palmer <hi>Esquires. Sir</hi> John Coghil <hi>Knight.</hi> Robert Smith. Robert Molesworth: Hugh Morgan. John Preston <hi>of</hi> Ardsallagh <hi>E<g ref="char:EOLhyphen"/>squire.</hi> Richard Barry <hi>Gentleman.</hi> Richard W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llett <hi>Esquire.</hi> Samuel Gibbons. Francis Teuk <hi>Gentleman.</hi> James VVhite <hi>of</hi> Maglaire. Thomas Carter. James Barry <hi>and</hi> Richard Ash <hi>Esquires Doctor</hi> John Bolton. <hi>Dean</hi> Ryves. John Chett<g ref="char:EOLhyphen"/>wood <hi>Clerk.</hi> John Keating <hi>Esquire.</hi> John Preston. Joshua Warren <hi>Clerk. Doctor</hi> Barton. <hi>Colonel</hi> Echlin, <hi>Doctor</hi> Stearne. Benjamin Chettwood <hi>Esquire.</hi> Edward Lestrange. <hi>Master</hi> VValler <hi>of</hi> Allinstowne <hi>Gentleman.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Managhan.</hi>
+               </head>
+               <p>
+                  <hi>The Honourable Master Iustice</hi> Coote. <hi>the High Sheriff for the time being.</hi> VVilliam Bar<g ref="char:EOLhyphen"/>ton, Henry Tenison. Robert Echlin. Charles Deering, Hugh Mountgomery. Iames Curry. Iames Moore. Arthur Brownlow. Iames Tisdall, Edward Davyes. Richard Iohnston. Francis Lu<g ref="char:EOLhyphen"/>cas <hi>Senior.</hi> Francis Lucas <hi>Iunior.</hi> Bryan Nor<g ref="char:EOLhyphen"/>bury, VVilliam VVishart. Blaney Owens. Henry Richardson, Iohn Curry, Alexander Mountgo<g ref="char:EOLhyphen"/>mery, Richard Pockridge, Gilbert Eccles, Ri<g ref="char:EOLhyphen"/>chard
+<pb n="44" facs="tcp:191897:18"/> Leigh, Ioseph Iohnston, Timothy Armitage, Walter Dawson, Thomas Wildman <hi>and</hi> Thomas Chappel <hi>Esquires. Captain</hi> Bernard Ward, <hi>Captain</hi> Iames Butler, <hi>Captain</hi> Robert Steven<g ref="char:EOLhyphen"/>son, <hi>Captain</hi> Hans Stevenson, <hi>Captain</hi> Ioseph Campbel, Iohn Leslie <hi>Dean of</hi> Dromore, Iohn Smith <hi>Arch-Deacon of</hi> Clogher, William Smith, Iohn Law. Iohn Forster, Ralph Barlo, Iohn Knox, Andrew Mountgomery, VVilliam Pock<g ref="char:EOLhyphen"/>ridge <hi>Clerks, the Provost of</hi> Monaghan <hi>for the time being,</hi> Charles Congrave, Robert Maxwel, Iohn Barlo, Francis Rose, Benjamin Rose, Hen<g ref="char:EOLhyphen"/>ry Evett, Dudley Tenison, Iohn Forster, Iames Staneous, Richard Allen, Richard Fitch, Francis Dobb, William Iohnston. Thomas Iones, Iohn Shewel <hi>and</hi> Iasper VVills.</p>
+            </div>
+            <div type="part">
+               <head>For the <hi>Queens-County.</hi>
+               </head>
+               <p>
+                  <hi>The High Sheriff for the time being, Sir</hi> Iohn Mead <hi>Knight,</hi> Iohn Weaver <hi>senior,</hi> Iohn VVeaver <hi>junior,</hi> Robert VVarnford, VValter VVel<g ref="char:EOLhyphen"/>don, Richard VVarburton <hi>senior, and</hi> St. Leger Gilbert, George VVarburton, Richard VVarburton <hi>junior Esquires, Sir</hi> Thomas Vesy <hi>Baronet.</hi> Denny Muschampe, William Harpole, Periam Poole, Dudley Cosby, Richard Hansard, Richard Pryor, Thomas Pigott, William Gray, John Barrington, Stephen Fitz-Gerald, Thomas Carr, John Short, John Spranger, Edward Stubbers, <hi>Mr.</hi> White Read <hi>Clerk,</hi> Gilbert Rawson, Ri<g ref="char:EOLhyphen"/>chard Segar, Robert Piggott <hi>of</hi> Cappard, Oliver Wheeler, Thomas Carter, VVentworth Harman, Robert Saunders, Anderson Saunders, William Brereton <hi>Esquires, Doctor</hi> Charles Crow, An<g ref="char:EOLhyphen"/>drew Nisbit, Thomas Mosse, Maurice Kenelly
+<pb n="45" facs="tcp:191897:18"/>
+                  <hi>and</hi> Richard Hall <hi>Clerks,</hi> Thomas Starkey, Fran<g ref="char:EOLhyphen"/>cis Newbold <hi>senior,</hi> Gerald Fitz-Gerald, Abraham May <hi>senior,</hi> Lancelot Sands, Robert Fin, Hopton Harris <hi>and</hi> Richard Vicars <hi>senior, Gentlemen, the Burgomaster of</hi> Maryborough <hi>for the time being, the Sove<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aign of</hi> Ballinakill <hi>for the time being, the Soveraign of</hi> Portarlington <hi>for the time being.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Roscommon.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Robert King, <hi>Sir</hi> George St. George, <hi>Sir</hi> Edward Crofton, <hi>Sir</hi> Edward Shaen, <hi>Sir</hi> Ar<g ref="char:EOLhyphen"/>thur Cole <hi>Baronets:</hi> John King, Henry Sand<g ref="char:EOLhyphen"/>ford, Arthur St. George, Gilbert Ormsby, Wil<g ref="char:EOLhyphen"/>liam Caulfield, William Handcocke <hi>Senior,</hi> Gil<g ref="char:EOLhyphen"/>bert King, Henry St. George, Andrew Blackburne, John Dogherty, John French, Robert Sands, Edward Madden, John Reynolds, Theophilus Jones, Gilbert Gardner, Henry Dodwell <hi>and</hi> Daniel Hudson <hi>Esquires: Captain</hi> Richard St. George, <hi>Master Serjeant</hi> Neave, Dean Cope <hi>Clerk, Captain</hi> Toby Molloy, Edward Ormsby <hi>Gentleman:</hi> George Digby <hi>Clerk,</hi> Gilbert Don<g ref="char:EOLhyphen"/>nellan, George Crofton <hi>Gentlemen:</hi> Stephen Handcock <hi>Clerk,</hi> Bryan Goovin, Thomas Walker, Alexander Erwin, Henry Erwin, Humberston Westby <hi>Gentlemen:</hi> Edward Nicholson <hi>Clerk,</hi> Lewis Hawkes, Robert Gouldsmith, Dennis De<g ref="char:EOLhyphen"/>lany, Edward Kelly, Thomas Yeadon <hi>and</hi> David Cunningham <hi>Gentlemen.</hi> Jonathan Law <hi>Clerk,</hi> Patrick French, Franc<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Waldrum, Bartholomew Mahon <hi>and</hi> Theophilus Peirce <hi>Gentlemen: The Soveraigns of</hi> Athlone, Roscommon <hi>and</hi> Tulsk <hi>for the time being, the Burgomaster of</hi> Boyle <hi>for the time being.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="46" facs="tcp:191897:19"/>
+               <head>For the County of <hi>Sligoe.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Robert King, <hi>Sir</hi> Edward Crofton <hi>Baro<g ref="char:EOLhyphen"/>nets:</hi> Edward Wingfield, Hugh Morgan, Chid<g ref="char:EOLhyphen"/>ley Coote, John King, <hi>Arch-deacon</hi> Michael Jones, Percy Gethin, Roger Smith, Arthur Cooper, William Griffith, Mathew Ormsby, Je<g ref="char:EOLhyphen"/>remiah Jones, Henry Yeadon <hi>Clerk:</hi> Lewis Jones, William Gore, John French, Adam Ormsby: George VVood: VVilliam Orms<g ref="char:EOLhyphen"/>by, Charles Hara, Benjamin Burton <hi>Esquires:</hi> William Ahouleck <hi>Clerk,</hi> Kean Hara, Robert Fol<g ref="char:EOLhyphen"/>liott <hi>and</hi> Thomas Jones <hi>Esquires:</hi> William Smith, Philip Cox, James Barrett, Stephen Ormsby <hi>Gentlemen:</hi> Tobias Caulfield <hi>Clerk:</hi> John Fle<g ref="char:EOLhyphen"/>min, Mathew Fibbs, Mathew Yeadon, John Neylan, William Harlac <hi>and</hi> James Devett <hi>Gen<g ref="char:EOLhyphen"/>tlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County Palatine of <hi>Tipperary.</hi>
+               </head>
+               <p>
+                  <hi>Sir</hi> Richard Pyne <hi>Knight, Lord chief Iustice of</hi> Ireland, <hi>Lord Viscount</hi> Ikeryne, <hi>Sir</hi> John Meade <hi>Knight;</hi> Stephen Moore <hi>Esquire; Sir</hi> Thomas Osborne <hi>Knight;</hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Standish Hartstounge <hi>senior,</hi> James Harrison, John Ottoway, <hi>Sir</hi> Arthur Cole, Thomas Tow<g ref="char:EOLhyphen"/>ler, William Smithwick, Charles Alcock, Richard Moore, Samuel Green, Robert Blenerhassett, Thomas Carter, John Perry, William Arm<g ref="char:EOLhyphen"/>stronge, John Pyke, Symon Broadstreet, John Hunt, John Baily, Robert Stopford, Anthony Chearveley, John Cooke, Oliver Latham, Kings<g ref="char:EOLhyphen"/>mel Pennefather, George Read, John Buckworth, Richard Buckworth, James Dawson, Agmundi<g ref="char:EOLhyphen"/>sham Cuffe, Hecter Vaughan, Thomas Cleare
+<pb n="47" facs="tcp:191897:19"/>
+                  <hi>senior:</hi> Richard Whaley: Joseph Floyd: An<g ref="char:EOLhyphen"/>thony Maude: John White <hi>of</hi> Cappagh: Hum<g ref="char:EOLhyphen"/>phry Minchin: Daniel Gahane: Anthony Carroll: Nicholas Southcoate: Thomas Tillson: Thomas Moore: Richard Waller: Anderson Saunders: Thomas Batty: Joseph Damer: Francis Foulkes: Jonathan Ash <hi>and</hi> Edward Stratford <hi>Esquires: the High Sher<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff for the time being: Mayor of</hi> Cashel <hi>fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the time being: Soveraign of</hi> Fethard <hi>for the time being: Mayor of</hi> Clonmell <hi>for the time being:</hi> Robert Bredin: Patrick Hackett <hi>Clerks:</hi> John White <hi>of</hi> Ardfinane: Mathew B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nbury: David Low: William Lane: John Hunt <hi>of</hi> Glangoole: George Burdett: Charles Langly: William Turvin: John Minchin <hi>of</hi> Shangarry: Robert Cole: John Minchin <hi>of</hi> An<g ref="char:EOLhyphen"/>nagh: Phan. Cooke <hi>Iunior.</hi> Thomas Shephard: Thomas Salmon: Charles Robinson: Peter Cooke <hi>Iunior.</hi> Thomas Clare <hi>Iunior.</hi> William Latham: Joseph Judkins: Andrew Roe: John Cooley: Mi<g ref="char:EOLhyphen"/>chael Stanley: Henry Clare: Phillip Carleton: John Carleton: Richard Dennison: Phineas Riall: Richard Newport: John Marshall: John Moore <hi>of</hi> Sheskin: Robert Boreman: William Minchin: Mathew Jacob: Isaac Hales <hi>and</hi> Mathew Squibb <hi>Gentlemen. Colonel</hi> Chidley Coote: Edward Worth: George Evans: Robert Curtis <hi>and</hi> John Curtis <hi>Esquires.</hi> John Hall <hi>Gentleman Colonel</hi> William Smithwick: Kilner Brasier <hi>Esquire: Captain</hi> Henry Smithwick: Joseph Stepny <hi>and</hi> Robert Foulkes <hi>Esquires.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>Tyrone.</hi>
+               </head>
+               <p>
+                  <hi>The High-sheriff of the said County for the time being: Colonel</hi> Toby Caulfield: <hi>Colonel</hi>
+                  <pb n="48" facs="tcp:191897:20"/> John Caulfield: <hi>Sir</hi> Tristram Berisford: <hi>Sir</hi> Robert Staple <hi>Baronets: Sir</hi> Henry Tich<g ref="char:EOLhyphen"/>borne <hi>Knight and Baronet: Sir</hi> Thomas Packenham <hi>Knight:</hi> James Hamilton: Henry Mervin: Thomas Knox: John Hamilton: Audly Mervin: Oliver mc. Causland: Richard Iohn<g ref="char:EOLhyphen"/>ston: David Cairnes: David Creighton: Ro<g ref="char:EOLhyphen"/>bert Echlin: Hugh Hamill: Francis VVhite: Iames Moore <hi>of</hi> Anacley: Archibald Richard<g ref="char:EOLhyphen"/>son: William Barton: Iames Mutray: Patrick Hamilton: William Stewart <hi>of</hi> Killmoone: Tho<g ref="char:EOLhyphen"/>mas Morris: Iohn Leslie: William Hamilton <hi>of</hi> Moyagh: William Latham: John Houston: Andrew Stewart <hi>of</hi> Irey: James Moore <hi>of</hi> Di<g ref="char:EOLhyphen"/>sertreagh: Francis Nevill: Robert King: George Stewart: Archibald Hamilton: Thomas Ed<g ref="char:EOLhyphen"/>wards: Charles Eccles: John Houston <hi>of</hi> Ca<g ref="char:EOLhyphen"/>stlestewart <hi>Esquires, The Provosts of</hi> Stra<g ref="char:EOLhyphen"/>bane <hi>and</hi> Dungannon <hi>for the time being: Arch<g ref="char:EOLhyphen"/>deacon</hi> Hamilton: John Simthler <hi>Clerks:</hi> Ed<g ref="char:EOLhyphen"/>mond Arwaker: John Morris <hi>Clerks:</hi> David mc. Clenaghan <hi>of</hi> Strabane: William Maxwell <hi>of the same:</hi> William Hamilton <hi>of</hi> Mountalony: James Hamilton <hi>of</hi> Lisdwen: William Cairnes: Allen Moore: VVilliam Moore: Stewart Blac<g ref="char:EOLhyphen"/>ker, Robert Lowry, Charles Young, John Dowglasse, Thomas Cooper, William Goodlett, John Gamble <hi>Merchant</hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Martin: Iames Stewart <hi>of</hi> Killemorin, Duley Tenison, Andrew Baily, Francis Hueton, Walter Linsey, Iames Richison, William Moore <hi>of</hi> Loghmurphy, William Babbington, Robert Edwards, VVinter Fergy <hi>and</hi> VVilliam Hamilton <hi>of</hi> Ballefatton, <hi>Gentlemen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="49" facs="tcp:191897:20"/>
+               <head>For the City of <hi>Waterford.</hi>
+               </head>
+               <p>
+                  <hi>The Mayor for the time being.</hi> A<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hony Suxbury <hi>Esquire, Recorder,</hi> Richard Christmas <hi>Esquire, Sir</hi> John Mason <hi>Knight,</hi> John Dal<g ref="char:EOLhyphen"/>ton <hi>Dean of</hi> Waterford, John Eccles, Alexander Alcock <hi>Clerks.</hi> Henry Nichol, Joseph Ivye, John Hallam <hi>and</hi> John Head <hi>Esquires,</hi> William Dennis, Francis Barker, Abraham Smith, Benja<g ref="char:EOLhyphen"/>min Bolton, Samuel Frith <hi>and</hi> John Lap <hi>Alder<g ref="char:EOLhyphen"/>men.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the County of <hi>VVaterford.</hi>
+               </head>
+               <p>
+                  <hi>The High Sheriff for the time being, the Honourable</hi> Henry Boyle <hi>Esquire, the Honour<g ref="char:EOLhyphen"/>able</hi> Henry Petty <hi>Esquire, Sir</hi> John Mason <hi>Knight,</hi> Richard Downing <hi>Clerk, Sir</hi> John Osborne, <hi>Sir</hi> Arthur Cole <hi>Baronets, Sir</hi> Tho<g ref="char:EOLhyphen"/>mas Osborne <hi>Knight, Colonel</hi> Stephen Stanley, John Dalton <hi>Clerk, Dean of</hi> Waterford, Arthur St. Leger, Richard Christmas, Henry Nichol, William Bolton, John Otterington, William Dobbin, Edmond Fortescue Aland, Joseph Ivye, Robert Carew, Edward May <hi>Iunior,</hi> William Bucknor, Iohn Head, Timothy Wall, Iohn Net<g ref="char:EOLhyphen"/>tles: Samuel Maynard, VVilliam Greatracks, Roger Power, VVilliam Congreve, Thomas VVal<g ref="char:EOLhyphen"/>lis, Andrew Bagg, Edward Hibbart, VVilliam Browning, Thomas Croker, Richard Biert, Richard Yeates <hi>and</hi> Robert Cooke <hi>Esquires,</hi> Iohn Eccles, Alexander Alcock, Symon Radcliffe <hi>Clerk,</hi> Beverly Usher, Samuel Frith, Benjamin Bolton, Richard Bagg, Ralph Greene, Charles Bolton, Michael Ca<g ref="char:EOLhyphen"/>rew <hi>Gentlemen,</hi> Francis Foulke <hi>Esquire and</hi> Ieremy Coghlan.</p>
+            </div>
+            <div type="part">
+               <pb n="50" facs="tcp:191897:21"/>
+               <head>For the County of <hi>West-Meath.</hi>
+               </head>
+               <p>
+                  <hi>T<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Honourable</hi> Robert Rochfort <hi>Esquire, His Majesty's Attorney-General, and Speaker of the Honourable House of Commons,</hi> Oliver Lambert <hi>Esquire, Sir</hi> Francis Blundel <hi>Baronet, Sir</hi> Thomas Packenham, <hi>Sir</hi> Richard Levinge, <hi>Sir</hi> John Rogerson <hi>Knights,</hi> George Peyton, Wil<g ref="char:EOLhyphen"/>liam Handcock, John Usher, Walter Pollard, Thomas Handcock, Henry Monke, Charles Lam<g ref="char:EOLhyphen"/>bert, James Nugent, Robert Packenham, Thomas Smith, Christopher Nugent, John Wood <hi>Iunior,</hi> William Jones, Thomas Nugent, Ralph Elrington, John Percival, Lewis Mears <hi>senior,</hi> Alexander Mur<g ref="char:EOLhyphen"/>ray, Arthur St. George, John Cooke, Lewis Meares <hi>junior,</hi> Barachias Low, Richard Pilkinton, <hi>Esquires,</hi> Robert Smith <hi>Clerk,</hi> William Saun<g ref="char:EOLhyphen"/>derson <hi>Esquire,</hi> Richard Tigh <hi>Gentleman,</hi> Ed<g ref="char:EOLhyphen"/>ward Bertles, Hugh Bowen, Charles Fox, Antho<g ref="char:EOLhyphen"/>ny Shepheard, Francis Stoit <hi>Esquires,</hi> Stephen Handcock <hi>Clerk,</hi> Samuel Jackson <hi>Esquire,</hi> Nicho<g ref="char:EOLhyphen"/>las Knight <hi>Clerk,</hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Delgarno <hi>Clerk,</hi> Edward Wallwein <hi>Clerk,</hi> Henry St. George, Henry Dowdal, Dillon Pollard, Robert Temple, Patrick Fox <hi>Esquires,</hi> VVilliam Gamble <hi>Gentle<g ref="char:EOLhyphen"/>man,</hi> Thomas Daly, Leonard Hatfield <hi>Esquires,</hi> Arthur Judge <hi>senior,</hi> Thomas Magan, Oliver Shorne, Edmond Brainthwaite, Charles Smith, Henry Sibbalds, James Pollard, Dominick French, Thomas Smith: William Chapman: John Bos<g ref="char:EOLhyphen"/>wel: Henry Smith: Roger Harrison <hi>Gentlemen, Major</hi> John Rider: John Lestrange: <hi>and Cap<g ref="char:EOLhyphen"/>tain</hi> John Crokes.</p>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:191897:21"/>
+               <head>For the County of <hi>Wexford.</hi>
+               </head>
+               <p>
+                  <hi>The Honourable</hi> Phillip Savage, Mathew Pord, Daniel Wybrants, John Harvey, Francis Anne<g ref="char:EOLhyphen"/>sley, Thomas Crofford, John Seymour, Ri<g ref="char:EOLhyphen"/>chard Barry, <hi>Sir</hi> Richard Bulkeley, <hi>Sir</hi> Nicho<g ref="char:EOLhyphen"/>las Loftus, John Chichester, Abel Ram, Robert Wolesley, Anderson Saunders, John Cliff, Na<g ref="char:EOLhyphen"/>thaniel Boyse, Maurice Annesley, Henry Lof<g ref="char:EOLhyphen"/>tus <hi>Esquires, Doctor</hi> Robert Elliot, Cadwalla<g ref="char:EOLhyphen"/>der Edwards, Edward Jones, Richard VVent<g ref="char:EOLhyphen"/>worth <hi>Esquires, Arch-Deacon</hi> Benjamin Neale, Joshua Tench, Thomas Palliser, Thomas Mild<g ref="char:EOLhyphen"/>may, Charles Buggs, Iohn Haugh <hi>Clerk,</hi> Wil<g ref="char:EOLhyphen"/>liam Hore, John Shapland, Thomas Phillips, Thomas Richards, <hi>Master</hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Donovan, Michael Parsley, Joshua Nun, James Underwood, William Alcock, <hi>Master</hi> W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lliam Moore, Nicho<g ref="char:EOLhyphen"/>las Kemeys <hi>senior, Esquire,</hi> Alexander Allen <hi>Clerk,</hi> Iames Stopford, Iohn Bunbury Iohn White, Edward Rogers, Hugh Warren, Samuel Tench, Revenscroft Gefford, VVilliam Cole, Roger Lindon, William Annesley, Iames White, Iohn Gr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gan, Henry Archer, Lawrence Davys, Thomas Ivory, <hi>the Mayor of</hi> Wexford <hi>for the time being, the Soveraign of</hi> New-Rosse <hi>for the time being, the Soveraign of</hi> Newburrough <hi>alias</hi> Gory <hi>for the time being,</hi> Henry Halton, Iohn Smith, Hygate Boyde, Iohn Boyse, Henry Nap<g ref="char:EOLhyphen"/>per: <hi>the Portrive of</hi> Eniscorthy <hi>for the time being.</hi> Richard Donovan, Iervas Clifton, Ni<g ref="char:EOLhyphen"/>cholas Codd <hi>Esquires,</hi> Walter Bunbury <hi>Gentle<g ref="char:EOLhyphen"/>man.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:191897:22"/>
+               <head>For the County of <hi>Wicklow.</hi>
+               </head>
+               <p>Sir <hi>Richard Bulkely</hi> Baronet. <hi>Thomas Keight<g ref="char:EOLhyphen"/>ly, William Robinson, Chambre Brabozon, Chri<g ref="char:EOLhyphen"/>stopher Carleton, Christopher Usher, William Usher, Richard Thompson, William Hoye, Hugh Eccles, Denny Muschampe, Gideon Delawne. Edward VVorth: Owen Iones. Humphry Ma<g ref="char:EOLhyphen"/>thews: Peter Cradock: Robert Stratford. Chri<g ref="char:EOLhyphen"/>stopher Colwel. Robert Graydon. Iohn White<g ref="char:EOLhyphen"/>head. VVilliam Neave. Abraham Nixon. VVil<g ref="char:EOLhyphen"/>liam Fownes. Anthony Archer. Iohn Hacket. Thomas Phillips. Titchbourne VVest: Thomas Burrows: Edward Stratford: Charles Rickeseyes</hi> Esquires, <hi>Talbot Kean: Iohn Edwards: Henry Graydon: VValter Harris</hi> and <hi>VVilliam Hum<g ref="char:EOLhyphen"/>phrey</hi> Gentlemen, and <hi>Bernard Browne</hi> E<g ref="char:EOLhyphen"/>squire.</p>
+            </div>
+            <div type="part">
+               <p>Which said several Persons, shall Meét at the most Common place of Meéting for their respective Counties and Cities, on the said First day of <hi>March</hi> One thousand Six hun<g ref="char:EOLhyphen"/>dred Ninety eight; and the said Commission<g ref="char:EOLhyphen"/>ers, or so many of them as shall be present at the said Meéting, or the major part of them, may Sub-divide as well themselves, as other the Commissioners not then present, for the Executing of this Act, into lesser Numbers, so as Threé or more of them shall always be present at each Meéting for any Barony, Di<g ref="char:EOLhyphen"/>vision, Territory, Ward or Parish, to put the said Act into Execution: And that the said Commissioners shall and may meét at the said most Common place of meéting for their re<g ref="char:EOLhyphen"/>spective
+<pb n="53" facs="tcp:191897:22"/> Counties and Cities, and the said Sub-divisions of the said Commissioners at such places as they, or the major part of them shall appoint in the respective Sub-divisions, from time to time, and as often as there shall be occasion for the Execution of this Act. And for the more regular Raising and Levying the several Summs charged by this Act:</p>
+               <p>Be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>said; That the said Commissioners at their said First Meéting, shall Ascertain and Assess the proportions of the said Charge or Tax, pay<g ref="char:EOLhyphen"/>able and levyable out of each and every of the several Lands, Tenements, Hereditaments, Tythes, and Impropriations in the said re<g ref="char:EOLhyphen"/>spective Counties and Cities in this Kingdom; and the said Assessments fairly Written on Parchment, under the Hands and Seals of Three or more of the said Comm<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssioners, shall on or before the First of <hi>May</hi> One thousand Six hundred Ninety nine, deliver to the Collector of His Majesty's Revenue in the said County or City; and that the respective Collectors of His Majesty's Revenue, shall, and do give publick notice of the days when, and places where, in each Barony in the several Counties of this Kindom, and of the places in the several Cities and Counties of Towns in the said Kingdom, where the respective Taxes payable for, and out of the several Lands, Tenements, Heredita<g ref="char:EOLhyphen"/>ments, Tythes and Impropriations in the said Baronies, Cities and Towns shall be paid, and that such Day shall always be a Day after the several Days on which the said Tax is pay<g ref="char:EOLhyphen"/>able by this Act; and that all and every the Summs so Charged and Assessed by the said
+<pb n="54" facs="tcp:191897:23"/> C<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmissioners, as aforesaid, shall be paid to the said respective Collectors of His Majesty's Reve<g ref="char:EOLhyphen"/>nue, at, and on the said Days and Places; which said Collectors shall, and are hereby re<g ref="char:EOLhyphen"/>quired to give Receipts or Acquittances in Writing or Print, for the several Summs so by them Received, immediately on the Receipt of the said several Summs without Feé or other Reward, and that such Receipts or Acquittan<g ref="char:EOLhyphen"/>ces, shall be sufficient Discharges for so much of the said Tax.</p>
+               <p>And be it further Enacted, That in Default of such Payment, at the Days and Places afore<g ref="char:EOLhyphen"/>mentioned, it shall and may be lawful to, and for the said respective Collectors of His Maje<g ref="char:EOLhyphen"/>sty's Revenue, with the Assistance of the Con<g ref="char:EOLhyphen"/>stable of the respective Parish or Parishes, who are-hereby required and commanded to be Aiding and Assisting as often as there shall be occa<g ref="char:EOLhyphen"/>sion to Levy by Distress the several Summs charged and payable out of the several Lands, Tenements, Hereditaments, Tythes and Im<g ref="char:EOLhyphen"/>propriations in this Kingdom, or so much there<g ref="char:EOLhyphen"/>of as shall not be paid at the said Days and Places appointed, and that the said Distress and Distresses so to be taken for the said Tax, shall be Impounded as Distresses for Rent be<g ref="char:EOLhyphen"/>tweén Landlord and Tenant, and not other<g ref="char:EOLhyphen"/>wise, and shall and may be Disposed of, and Sold as is usual in cases of Distress, rendring the Over-plus to the Owner; and that where sufficient Distress cannot otherwise be had, it shall and may be lawful to, and for the said Collectors, in the presence of the Constable of the Parish, by Warrant under the Hands and Seals of Two or more of the said Commioners
+<pb n="55" facs="tcp:191897:23"/> of the respective Counties or Cities, to Break open any House or Houses, in the Day time, to Distrain for the said Tax.</p>
+               <p>And be it further Enacted, That no Feé, Reward, or other Gratification whatsoever shall be paid, demanded or given to the said Colle<g ref="char:EOLhyphen"/>ctors, or any other person or persons whatsoe<g ref="char:EOLhyphen"/>ver, for, or on account of Receiving, Collecting or Distraining for the said Tax.</p>
+               <p>And be it further Enacted by the Authority aforesaid, That the several Tenants of all Houses, Lands, Tenements, Hereditaments, Tyths and Impropriations in this Kingdom, Rated towards the said Tax, shall pay such Summ or Summs as are, or shall be so Ra<g ref="char:EOLhyphen"/>ted or Charged thereon, and may deduct so much out of the Rent reserved and payable by them to their Landlords, as the proportion of the said Tax payable by their several Land<g ref="char:EOLhyphen"/>lords, mediate and immediate, shall amount unto; and that the said Tenants paying the said Landlords Proporti<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of the said Tax, shall be a full Discharge to the said Tenants for so much of the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Rent, notwithstanding any Contract or Covenant to the contra<g ref="char:EOLhyphen"/>ry.</p>
+               <p>And for Ascertaining the Proportion of the said Tax, betweén the said Landlords and Tenants,</p>
+               <p>Be it further Enacted, That the Chief Land<g ref="char:EOLhyphen"/>lord or Proprietor of the said several Lands, Tene<g ref="char:EOLhyphen"/>ments, Hereditaments Tyths and Impropriati<g ref="char:EOLhyphen"/>ons, shall be charged with, and pay One full Half or Moyety of the said Tax or Rate, charged on the said respective Lands, Tenements, Here<g ref="char:EOLhyphen"/>ditaments, Tyths and Impropriations: And
+<pb n="56" facs="tcp:191897:24"/> that the several Tenements mediate and im<g ref="char:EOLhyphen"/>mediate, according to their respective Interests, do and shall pay the other Half or Moyety thereof▪ and that in the Distribution or Appor<g ref="char:EOLhyphen"/>tioning the said Half or Moyety of the said Tax among the said Tenants mediate and im<g ref="char:EOLhyphen"/>mediate, each mediate Tenant be accounted and pay as a Landlord with regard to his Tenant or Tenants.</p>
+               <p>Provided always, That if the said Moyety or Proportion of the said Rate or Tax so char<g ref="char:EOLhyphen"/>ged on the said Chief Landlord, do exceéd the Moyety of his her or their Clear Rent out of the said Lands, Tenements, Hereditaments, Tyths or Impropriations, that then such Landlord shall pay only a Moyety of such clear Rent, and the residue, or so much as the said Rate or Tax charged on the said Landlord as aforesaid, shall exceéd the Moyety of his, her or their clear Rent as aforesaid, shall be paid by and charged on the said Tenants mediate and immediate.</p>
+               <p>And be it also Enacted, That all and every person and persons having Mortgages, Rent-charges, Dowers, Ioyntures, Annuities, or other Estates for Lite in, or issuing out of any of the said Lands, Tenements, Hereditaments, Tyths or Impropriations, whereon no Rent is reserved, shall be Deémed, Charged and Rated as chief Landlord or Proprietor, and allow and pay a proportion of the said Tax according to his, her or their Interest or Be<g ref="char:EOLhyphen"/>nefit out of the said Lands, Tenements, He<g ref="char:EOLhyphen"/>reditaments, Tyths or Impropriations; and that the greater Number of the said Com<g ref="char:EOLhyphen"/>missioners present, not under Threé in each
+<pb n="57" facs="tcp:191897:24"/> Barony, Territory, Division, Ward or Parish, shall have full Power to Hear and finally to Determine on the construction of this Act, what part or proportion of the said Tax shall be Paid by or charged on such Mortgages, Tenants in Dower or other Tenants for Life or Incum<g ref="char:EOLhyphen"/>brances aforesaid; and likewise the Appo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tioning or Dividing the said Moyety of the said Tax, betweén the said several Tenants mediate and immediate, and all other Differences arising upon the Construction, or in the Execution of this Act.</p>
+               <p>Provided always, That none of the said Commissioners shall have a Vote in his own Case, but if any controversie arise, touching the proportion of the said Tax, to be paid by, or charged on him, shall withd<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw during the De<g ref="char:EOLhyphen"/>bate of such Controversie, until it be determin<g ref="char:EOLhyphen"/>ed by the rest of the Commissioners then present; and in default thereof, that the said Commissio<g ref="char:EOLhyphen"/>ners then present shall have Power, and are hereb<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> required to Impose such Fine or Fines, not exceeding Twenty pounds <hi>Sterling,</hi> as to them shall seém meét upon such Commissioners so re<g ref="char:EOLhyphen"/>fusing to withdraw, and to cause the same to be Levyed and Pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d as the several Rates and Assessments charged and made pursuant to this Act, are to be Levyed and Paid.</p>
+               <p>And be it further Enacted by the Authority aforesaid, That if any Proprietor or Farmer of any Tyths in this Kingdom, shall neglect, or omit to pay the rate or proportion of the said Tax, charged on the said Tyths, at the time and place before mentioned, that it shall and may be lawful to, and for the said Collectors, as aforesaid, to Distrain and Seize the said
+<pb n="58" facs="tcp:191897:25"/> Tyths, and dispose thereof as is usual in case of other Distresses, and in case so much of the said Tyths cannot be found to be Distrained or Seized, as shall be sufficient to answer the said Tax, or charge due thereout, and in case where there shall not be a sufficient Distress upon any of the said Lands, Tenements or Hereditaments, to Answer the said charge or Tax due thereout; that then upon Affidavit made the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eof, the said several Lands, Tenements, Hereditaments, Tyths and Impropriations shall, and may by P<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocess out of His Majesty's Court of Exche<g ref="char:EOLhyphen"/>quer, be Seized into His Majesty's Hands, as in case of Arrears of Crown-Rent, or Quit-Rent, and there detained until out of the Profits thereof, the said Tax due thereout be paid.</p>
+               <p>Provided always, That no poor Cottier, or poor Day-Labourer shall be charged with, or pay any part of the said Tax, but that the same shall be wholly allowed to him by his immediate Land-lord in his Rent, or be paid by his said Land-lord.</p>
+               <p>And for the careful Writing and Ingrossing the said Rates and Assessments in due time.</p>
+               <p>Be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>said, That the said Commissioners Clerks who shall respectively perform the same, shall by Warrant under Threé or more of the said Commissioners Hands, have and receive from the said respective Collectors, Two pence in the pound, for all such Summs of Money as shall respectively be Rated, Assessed and Charged in such Assessments pursuant to this Act; which said Collectors are hereby appointed to pay the same accordingly.</p>
+               <pb n="59" facs="tcp:191897:25"/>
+               <p>And be it further Enacted by the Authority aforesaid, That no Letters Patents granted by His Majesty, or any of His Royal Progeni<g ref="char:EOLhyphen"/>tors, to any person or persons, Cities, Bu<g ref="char:EOLhyphen"/>roughs, or Towns Corporate within this Realm, of any manour of Liberties, Pri<g ref="char:EOLhyphen"/>viledges, or Exemptions from Subsidies, Tolls, Taxes, Assessments, or Aids, shall be constru<g ref="char:EOLhyphen"/>ed or taken to Exempt any person or persons, City, Place, Burough, or Town-Corporate, or any of the Lands, Tenements, Heredita<g ref="char:EOLhyphen"/>ments, Tyths, or Impropriations within the same, from the Burthen and Charge of any Rate or Tax Granted by this Act, but that the same shall Bear and Pay their pro<g ref="char:EOLhyphen"/>portion of all Rates and Assessments by this present Act Imposed, any such Letters Patents, Grants, or Charters, or any Clause of <hi>Non-Obstante</hi> Matter or Thing therein contained, or any Law, Statute, Custom, or Prescription to the contrary notwithstanding.</p>
+               <p>And be it further Enacted by the Authority aforesaid, That if any Action, Sute, Plaint, or Information, shall be Commenced or Pro<g ref="char:EOLhyphen"/>secuted against any Person or Persons, for whatsoever he or they shall do in Pursuance, or in Execution of this Act; such Person or Persons so Sued in any Court whatso<g ref="char:EOLhyphen"/>ever, shall, and may Plead the General Is<g ref="char:EOLhyphen"/>sue, Not Guilty, and upon any Issue joyned, may give this Act, and the special Matter in Evidence; And if the Plantiff or Prosecutor shall become Non-Sute, or for<g ref="char:EOLhyphen"/>bear
+<pb n="60" facs="tcp:191897:26"/> further Prosecution, or suffer a Discon<g ref="char:EOLhyphen"/>tinuance, or if a Verdict shall pass against him, the said Defendant or Defendants shall Recover his or their treble Costs, for which he and they shall have the like Remedy, as in Case where Costs by Law are given to the De<g ref="char:EOLhyphen"/>fendant.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
